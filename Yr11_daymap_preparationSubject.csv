@@ -1,0 +1,2221 @@
+Student ID,Report Class Code,Item Code,EnteredText
+130257,11 Biology,Subject grade,B
+130257,11 Biology,Subject grade 2,C
+130257,11 Biology,Subject grade 3,B
+130257,11 Chemistry,Subject grade,A
+130257,11 Chemistry,Subject grade 2,B
+130257,11 Chemistry,Subject grade 3,A
+130257,11 English,Subject grade,B
+130257,11 English,Subject grade 2,NA
+130257,11 English,Subject grade 3,B
+130257,11 Hospitality,Subject grade,C
+130257,11 Hospitality,Subject grade 2,NA
+130257,11 Hospitality,Subject grade 3,C
+130257,11 Maths Studies 3,Subject grade,A
+130257,11 Maths Studies 3,Subject grade 2,B
+130257,11 Maths Studies 3,Subject grade 3,A
+130257,11 Maths Studies 4,Subject grade,B
+130257,11 Maths Studies 4,Subject grade 2,C
+130257,11 Maths Studies 4,Subject grade 3,C+
+130258,11 Digital Photography,Subject grade,E
+130258,11 Digital Photography,Subject grade 2,NA
+130258,11 Digital Photography,Subject grade 3,B
+130258,11 English Essentials,Subject grade,C+
+130258,11 English Essentials,Subject grade 2,NA
+130258,11 English Essentials,Subject grade 3,C+
+130258,11 Maths Essentials,Subject grade,C
+130258,11 Maths Essentials,Subject grade 2,D
+130258,11 Maths Essentials,Subject grade 3,C
+130258,11 Woodwork,Subject grade,C
+130258,11 Woodwork,Subject grade 2,NA
+130258,11 Woodwork,Subject grade 3,C
+140005,11 Art,Subject grade,E
+140005,11 Art,Subject grade 2,NA
+140005,11 Art,Subject grade 3,E
+140005,11 English,Subject grade,C
+140005,11 English,Subject grade 2,NA
+140005,11 English,Subject grade 3,C
+140005,11 Legal Studies,Subject grade,C-
+140005,11 Legal Studies,Subject grade 2,D
+140005,11 Legal Studies,Subject grade 3,C
+140005,11 Research Practices,Subject grade,C-
+140005,11 Research Practices,Subject grade 2,NA
+140005,11 Research Practices,Subject grade 3,C-
+140005,11 Woodwork,Subject grade,C-
+140005,11 Woodwork,Subject grade 2,NA
+140005,11 Woodwork,Subject grade 3,C+
+140006,11 Biology,Subject grade,C
+140006,11 Biology,Subject grade 2,C+
+140006,11 Biology,Subject grade 3,C
+140006,11 English,Subject grade,C
+140006,11 English,Subject grade 2,NA
+140006,11 English,Subject grade 3,C
+140006,11 Maths General,Subject grade,C+
+140006,11 Maths General,Subject grade 2,B
+140006,11 Maths General,Subject grade 3,C+
+140006,11 Physical Education,Subject grade,C
+140006,11 Physical Education,Subject grade 2,B
+140006,11 Physical Education,Subject grade 3,C
+140006,11 Research Practices,Subject grade,C
+140006,11 Research Practices,Subject grade 2,NA
+140006,11 Research Practices,Subject grade 3,C
+140006,11 Sport & Recreation,Subject grade,B
+140006,11 Sport & Recreation,Subject grade 2,NA
+140006,11 Sport & Recreation,Subject grade 3,C+
+140009,11 Design,Subject grade,B
+140009,11 Design,Subject grade 2,NA
+140009,11 Design,Subject grade 3,B
+140009,11 Digital Photography,Subject grade,C+
+140009,11 Digital Photography,Subject grade 2,NA
+140009,11 Digital Photography,Subject grade 3,C
+140009,11 English,Subject grade,B
+140009,11 English,Subject grade 2,NA
+140009,11 English,Subject grade 3,B
+140009,11 Hospitality,Subject grade,B
+140009,11 Hospitality,Subject grade 2,NA
+140009,11 Hospitality,Subject grade 3,C+
+140009,11 Maths Essentials,Subject grade,C-
+140009,11 Maths Essentials,Subject grade 2,C
+140009,11 Maths Essentials,Subject grade 3,C
+140009,11 Woodwork,Subject grade,B
+140009,11 Woodwork,Subject grade 2,NA
+140009,11 Woodwork,Subject grade 3,B
+140010,11 English,Subject grade,C
+140010,11 English,Subject grade 2,NA
+140010,11 English,Subject grade 3,C
+140010,11 Info Pro & Pub,Subject grade,B
+140010,11 Info Pro & Pub,Subject grade 2,NA
+140010,11 Info Pro & Pub,Subject grade 3,C
+140010,11 Legal Studies,Subject grade,D
+140010,11 Legal Studies,Subject grade 2,D
+140010,11 Legal Studies,Subject grade 3,C
+140010,11 Maths General,Subject grade,C
+140010,11 Maths General,Subject grade 2,E
+140010,11 Maths General,Subject grade 3,D
+140010,11 Physical Education,Subject grade,C
+140010,11 Physical Education,Subject grade 2,E
+140010,11 Physical Education,Subject grade 3,C
+140010,11 Woodwork,Subject grade,B
+140010,11 Woodwork,Subject grade 2,NA
+140010,11 Woodwork,Subject grade 3,B
+140011,11 Art,Subject grade,C
+140011,11 Art,Subject grade 2,NA
+140011,11 Art,Subject grade 3,C
+140011,11 English,Subject grade,C
+140011,11 English,Subject grade 2,NA
+140011,11 English,Subject grade 3,C
+140011,11 Hospitality,Subject grade,C+
+140011,11 Hospitality,Subject grade 2,NA
+140011,11 Hospitality,Subject grade 3,C+
+140011,11 Maths Essentials,Subject grade,C-
+140011,11 Maths Essentials,Subject grade 2,D
+140011,11 Maths Essentials,Subject grade 3,C-
+140011,11 Nutrition,Subject grade,C+
+140011,11 Nutrition,Subject grade 2,NA
+140011,11 Nutrition,Subject grade 3,C+
+140011,11 Scientific St B,Subject grade,A
+140011,11 Scientific St B,Subject grade 2,NA
+140011,11 Scientific St B,Subject grade 3,A
+140012,11 Biology,Subject grade,B
+140012,11 Biology,Subject grade 2,A
+140012,11 Biology,Subject grade 3,B
+140012,11 Chemistry,Subject grade,B
+140012,11 Chemistry,Subject grade 2,C-
+140012,11 Chemistry,Subject grade 3,B
+140012,11 English,Subject grade,B
+140012,11 English,Subject grade 2,NA
+140012,11 English,Subject grade 3,B
+140012,11 Info Pro & Pub,Subject grade,B
+140012,11 Info Pro & Pub,Subject grade 2,NA
+140012,11 Info Pro & Pub,Subject grade 3,B
+140012,11 Maths General,Subject grade,B
+140012,11 Maths General,Subject grade 2,B
+140012,11 Maths General,Subject grade 3,B
+140012,11 Nutrition,Subject grade,A
+140012,11 Nutrition,Subject grade 2,NA
+140012,11 Nutrition,Subject grade 3,A
+140013,11 Biology,Subject grade,B
+140013,11 Biology,Subject grade 2,B
+140013,11 Biology,Subject grade 3,C
+140013,11 Energy Tech,Subject grade,B
+140013,11 Energy Tech,Subject grade 2,NA
+140013,11 Energy Tech,Subject grade 3,B
+140013,11 English Essentials,Subject grade,C+
+140013,11 English Essentials,Subject grade 2,NA
+140013,11 English Essentials,Subject grade 3,C+
+140013,11 Maths General,Subject grade,C
+140013,11 Maths General,Subject grade 2,C
+140013,11 Maths General,Subject grade 3,C+
+140013,11 Music B,Subject grade,B
+140013,11 Music B,Subject grade 2,B
+140013,11 Music B,Subject grade 3,C+
+140013,11 Physical Education,Subject grade,B
+140013,11 Physical Education,Subject grade 2,B
+140013,11 Physical Education,Subject grade 3,B
+140014,11 Digital Photography,Subject grade,C+
+140014,11 Digital Photography,Subject grade 2,NA
+140014,11 Digital Photography,Subject grade 3,C-
+140014,11 English,Subject grade,C
+140014,11 English,Subject grade 2,NA
+140014,11 English,Subject grade 3,C
+140014,11 Hospitality,Subject grade,B
+140014,11 Hospitality,Subject grade 2,NA
+140014,11 Hospitality,Subject grade 3,C+
+140014,11 Info Pro & Pub,Subject grade,C-
+140014,11 Info Pro & Pub,Subject grade 2,NA
+140014,11 Info Pro & Pub,Subject grade 3,C
+140014,11 Maths General,Subject grade,C+
+140014,11 Maths General,Subject grade 2,C
+140014,11 Maths General,Subject grade 3,C+
+140014,11 Sport & Recreation,Subject grade,B
+140014,11 Sport & Recreation,Subject grade 2,NA
+140014,11 Sport & Recreation,Subject grade 3,B
+140016,11 Biology,Subject grade,B
+140016,11 Biology,Subject grade 2,B
+140016,11 Biology,Subject grade 3,B
+140016,11 Chemistry,Subject grade,B
+140016,11 Chemistry,Subject grade 2,C-
+140016,11 Chemistry,Subject grade 3,B
+140016,11 English,Subject grade,B
+140016,11 English,Subject grade 2,NA
+140016,11 English,Subject grade 3,B
+140016,11 History,Subject grade,C+
+140016,11 History,Subject grade 2,C+
+140016,11 History,Subject grade 3,B
+140016,11 Legal Studies,Subject grade,B
+140016,11 Legal Studies,Subject grade 2,B
+140016,11 Legal Studies,Subject grade 3,B
+140016,11 Maths Studies 3,Subject grade,B
+140016,11 Maths Studies 3,Subject grade 2,C
+140016,11 Maths Studies 3,Subject grade 3,B
+140017,11 English Essentials,Subject grade,C
+140017,11 English Essentials,Subject grade 2,NA
+140017,11 English Essentials,Subject grade 3,C
+140017,11 Hospitality,Subject grade,C
+140017,11 Hospitality,Subject grade 2,NA
+140017,11 Hospitality,Subject grade 3,C
+140017,11 Legal Studies,Subject grade,C
+140017,11 Legal Studies,Subject grade 2,D
+140017,11 Legal Studies,Subject grade 3,B
+140017,11 Maths Essentials,Subject grade,C
+140017,11 Maths Essentials,Subject grade 2,C
+140017,11 Maths Essentials,Subject grade 3,C
+140017,11 Scientific St B,Subject grade,C
+140017,11 Scientific St B,Subject grade 2,NA
+140017,11 Scientific St B,Subject grade 3,C
+140017,11 Woodwork,Subject grade,B
+140017,11 Woodwork,Subject grade 2,NA
+140017,11 Woodwork,Subject grade 3,B
+140018,11 Biology,Subject grade,B
+140018,11 Biology,Subject grade 2,C+
+140018,11 Biology,Subject grade 3,B
+140018,11 Chemistry,Subject grade,B
+140018,11 Chemistry,Subject grade 2,C-
+140018,11 Chemistry,Subject grade 3,B
+140018,11 Energy Tech,Subject grade,C
+140018,11 Energy Tech,Subject grade 2,NA
+140018,11 Energy Tech,Subject grade 3,C
+140018,11 English Studies,Subject grade,B
+140018,11 English Studies,Subject grade 2,B
+140018,11 English Studies,Subject grade 3,B
+140018,11 Maths Studies 3,Subject grade,B
+140018,11 Maths Studies 3,Subject grade 2,B
+140018,11 Maths Studies 3,Subject grade 3,B
+140018,11 Physics,Subject grade,B
+140018,11 Physics,Subject grade 2,C
+140018,11 Physics,Subject grade 3,B
+140019,11 Biology,Subject grade,C
+140019,11 Biology,Subject grade 2,D
+140019,11 Biology,Subject grade 3,C+
+140019,11 Digital Photography,Subject grade,B
+140019,11 Digital Photography,Subject grade 2,NA
+140019,11 Digital Photography,Subject grade 3,B
+140019,11 English Studies,Subject grade,B
+140019,11 English Studies,Subject grade 2,B
+140019,11 English Studies,Subject grade 3,A
+140019,11 History,Subject grade,A
+140019,11 History,Subject grade 2,B
+140019,11 History,Subject grade 3,A
+140019,11 Legal Studies,Subject grade,A
+140019,11 Legal Studies,Subject grade 2,B
+140019,11 Legal Studies,Subject grade 3,A
+140019,11 Maths General,Subject grade,B
+140019,11 Maths General,Subject grade 2,B
+140019,11 Maths General,Subject grade 3,B
+140020,11 Energy Tech,Subject grade,C
+140020,11 Energy Tech,Subject grade 2,NA
+140020,11 Energy Tech,Subject grade 3,C
+140020,11 English,Subject grade,C+
+140020,11 English,Subject grade 2,NA
+140020,11 English,Subject grade 3,B
+140020,11 Hospitality,Subject grade,C+
+140020,11 Hospitality,Subject grade 2,NA
+140020,11 Hospitality,Subject grade 3,C+
+140020,11 Maths General,Subject grade,B
+140020,11 Maths General,Subject grade 2,C
+140020,11 Maths General,Subject grade 3,B
+140020,11 Metalwork,Subject grade,B
+140020,11 Metalwork,Subject grade 2,NA
+140020,11 Metalwork,Subject grade 3,B
+140020,11 Music B,Subject grade,C+
+140020,11 Music B,Subject grade 2,B
+140020,11 Music B,Subject grade 3,C+
+140022,11 Biology,Subject grade,B
+140022,11 Biology,Subject grade 2,B
+140022,11 Biology,Subject grade 3,B
+140022,11 Chemistry,Subject grade,C
+140022,11 Chemistry,Subject grade 2,E
+140022,11 Chemistry,Subject grade 3,C+
+140022,11 English Studies,Subject grade,C+
+140022,11 English Studies,Subject grade 2,B
+140022,11 English Studies,Subject grade 3,C+
+140022,11 History,Subject grade,C+
+140022,11 History,Subject grade 2,C
+140022,11 History,Subject grade 3,B
+140022,11 Hospitality,Subject grade,B
+140022,11 Hospitality,Subject grade 2,NA
+140022,11 Hospitality,Subject grade 3,B
+140022,11 Maths General,Subject grade,B
+140022,11 Maths General,Subject grade 2,B
+140022,11 Maths General,Subject grade 3,B
+140023,11 Biology,Subject grade,A
+140023,11 Biology,Subject grade 2,A
+140023,11 Biology,Subject grade 3,A
+140023,11 Chemistry,Subject grade,A
+140023,11 Chemistry,Subject grade 2,B
+140023,11 Chemistry,Subject grade 3,B
+140023,11 Energy Tech,Subject grade,A
+140023,11 Energy Tech,Subject grade 2,NA
+140023,11 Energy Tech,Subject grade 3,A
+140023,11 English,Subject grade,A
+140023,11 English,Subject grade 2,NA
+140023,11 English,Subject grade 3,A
+140023,11 Legal Studies,Subject grade,A
+140023,11 Legal Studies,Subject grade 2,B
+140023,11 Legal Studies,Subject grade 3,A
+140023,11 Maths Studies 3,Subject grade,B
+140023,11 Maths Studies 3,Subject grade 2,C+
+140023,11 Maths Studies 3,Subject grade 3,B
+140024,11 Biology,Subject grade,B
+140024,11 Biology,Subject grade 2,C
+140024,11 Biology,Subject grade 3,B
+140024,11 Chemistry,Subject grade,B
+140024,11 Chemistry,Subject grade 2,B
+140024,11 Chemistry,Subject grade 3,B
+140024,11 English,Subject grade,B
+140024,11 English,Subject grade 2,NA
+140024,11 English,Subject grade 3,B
+140024,11 Maths Studies 3,Subject grade,A
+140024,11 Maths Studies 3,Subject grade 2,C+
+140024,11 Maths Studies 3,Subject grade 3,B
+140024,11 Maths Studies 4,Subject grade,B
+140024,11 Maths Studies 4,Subject grade 2,C
+140024,11 Maths Studies 4,Subject grade 3,B
+140024,11 Physics,Subject grade,B
+140024,11 Physics,Subject grade 2,D
+140024,11 Physics,Subject grade 3,B
+140025,11 Art,Subject grade,B
+140025,11 Art,Subject grade 2,NA
+140025,11 Art,Subject grade 3,B
+140025,11 Biology,Subject grade,B
+140025,11 Biology,Subject grade 2,B
+140025,11 Biology,Subject grade 3,B
+140025,11 Chemistry,Subject grade,B
+140025,11 Chemistry,Subject grade 2,C+
+140025,11 Chemistry,Subject grade 3,B
+140025,11 English Studies,Subject grade,B
+140025,11 English Studies,Subject grade 2,B
+140025,11 English Studies,Subject grade 3,B
+140025,11 Maths Studies 3,Subject grade,B
+140025,11 Maths Studies 3,Subject grade 2,C+
+140025,11 Maths Studies 3,Subject grade 3,B
+140025,11 Physics,Subject grade,A
+140025,11 Physics,Subject grade 2,C
+140025,11 Physics,Subject grade 3,A
+140027,11 Biology,Subject grade,B
+140027,11 Biology,Subject grade 2,B
+140027,11 Biology,Subject grade 3,B
+140027,11 Chemistry,Subject grade,B
+140027,11 Chemistry,Subject grade 2,C
+140027,11 Chemistry,Subject grade 3,C+
+140027,11 English,Subject grade,B
+140027,11 English,Subject grade 2,NA
+140027,11 English,Subject grade 3,B
+140027,11 Maths Studies 3,Subject grade,B
+140027,11 Maths Studies 3,Subject grade 2,A
+140027,11 Maths Studies 3,Subject grade 3,B
+140027,11 Maths Studies 4,Subject grade,B
+140027,11 Maths Studies 4,Subject grade 2,C
+140027,11 Maths Studies 4,Subject grade 3,B
+140027,11 Physics,Subject grade,B
+140027,11 Physics,Subject grade 2,C
+140027,11 Physics,Subject grade 3,B
+140028,11 Biology,Subject grade,C+
+140028,11 Biology,Subject grade 2,C+
+140028,11 Biology,Subject grade 3,C+
+140028,11 English Studies,Subject grade,B
+140028,11 English Studies,Subject grade 2,B
+140028,11 English Studies,Subject grade 3,B
+140028,11 Geography,Subject grade,C
+140028,11 Geography,Subject grade 2,B
+140028,11 Geography,Subject grade 3,C
+140028,11 History,Subject grade,B
+140028,11 History,Subject grade 2,C
+140028,11 History,Subject grade 3,B
+140028,11 Maths General,Subject grade,B
+140028,11 Maths General,Subject grade 2,C+
+140028,11 Maths General,Subject grade 3,B
+140028,11 Woodwork,Subject grade,A
+140028,11 Woodwork,Subject grade 2,NA
+140028,11 Woodwork,Subject grade 3,B
+140030,11 English,Subject grade,B
+140030,11 English,Subject grade 2,NA
+140030,11 English,Subject grade 3,A
+140030,11 Geography,Subject grade,D
+140030,11 Geography,Subject grade 2,D
+140030,11 Geography,Subject grade 3,D
+140030,11 History,Subject grade,B
+140030,11 History,Subject grade 2,B
+140030,11 History,Subject grade 3,B
+140030,11 Info Pro & Pub,Subject grade,C
+140030,11 Info Pro & Pub,Subject grade 2,NA
+140030,11 Info Pro & Pub,Subject grade 3,B
+140030,11 Legal Studies,Subject grade,B
+140030,11 Legal Studies,Subject grade 2,C+
+140030,11 Legal Studies,Subject grade 3,A
+140030,11 Maths General,Subject grade,B
+140030,11 Maths General,Subject grade 2,B
+140030,11 Maths General,Subject grade 3,B
+140032,11 Biology,Subject grade,A
+140032,11 Biology,Subject grade 2,B
+140032,11 Biology,Subject grade 3,A
+140032,11 Chemistry,Subject grade,C
+140032,11 Chemistry,Subject grade 2,E
+140032,11 Chemistry,Subject grade 3,C
+140032,11 English,Subject grade,B
+140032,11 English,Subject grade 2,NA
+140032,11 English,Subject grade 3,B
+140032,11 Hospitality,Subject grade,B
+140032,11 Hospitality,Subject grade 2,NA
+140032,11 Hospitality,Subject grade 3,B
+140032,11 Maths General,Subject grade,B
+140032,11 Maths General,Subject grade 2,C+
+140032,11 Maths General,Subject grade 3,B
+140032,11 Research Practices,Subject grade,A
+140032,11 Research Practices,Subject grade 2,NA
+140032,11 Research Practices,Subject grade 3,A
+140033,11 Biology,Subject grade,B
+140033,11 Biology,Subject grade 2,A
+140033,11 Biology,Subject grade 3,B
+140033,11 Chemistry,Subject grade,B
+140033,11 Chemistry,Subject grade 2,D
+140033,11 Chemistry,Subject grade 3,B
+140033,11 English,Subject grade,B
+140033,11 English,Subject grade 2,NA
+140033,11 English,Subject grade 3,B
+140033,11 Maths Studies 3,Subject grade,B
+140033,11 Maths Studies 3,Subject grade 2,B
+140033,11 Maths Studies 3,Subject grade 3,B
+140033,11 Physical Education,Subject grade,A
+140033,11 Physical Education,Subject grade 2,B
+140033,11 Physical Education,Subject grade 3,A
+140033,11 Physics,Subject grade,A
+140033,11 Physics,Subject grade 2,C+
+140033,11 Physics,Subject grade 3,A
+140035,11 Design,Subject grade,A
+140035,11 Design,Subject grade 2,NA
+140035,11 Design,Subject grade 3,A
+140035,11 English Studies,Subject grade,B
+140035,11 English Studies,Subject grade 2,B
+140035,11 English Studies,Subject grade 3,B
+140035,11 Geography,Subject grade,B
+140035,11 Geography,Subject grade 2,C
+140035,11 Geography,Subject grade 3,C+
+140035,11 Hospitality,Subject grade,B
+140035,11 Hospitality,Subject grade 2,NA
+140035,11 Hospitality,Subject grade 3,B
+140035,11 Maths General,Subject grade,B
+140035,11 Maths General,Subject grade 2,B
+140035,11 Maths General,Subject grade 3,B
+140035,11 Research Practices,Subject grade,A
+140035,11 Research Practices,Subject grade 2,NA
+140035,11 Research Practices,Subject grade 3,A
+140036,11 Biology,Subject grade,C-
+140036,11 Biology,Subject grade 2,D
+140036,11 Biology,Subject grade 3,C
+140036,11 English,Subject grade,B
+140036,11 English,Subject grade 2,NA
+140036,11 English,Subject grade 3,B
+140036,11 Geography,Subject grade,D
+140036,11 Geography,Subject grade 2,D
+140036,11 Geography,Subject grade 3,D
+140036,11 Legal Studies,Subject grade,C+
+140036,11 Legal Studies,Subject grade 2,C-
+140036,11 Legal Studies,Subject grade 3,B
+140036,11 Maths General,Subject grade,C-
+140036,11 Maths General,Subject grade 2,C-
+140036,11 Maths General,Subject grade 3,C-
+140036,11 Woodwork,Subject grade,B
+140036,11 Woodwork,Subject grade 2,NA
+140036,11 Woodwork,Subject grade 3,B
+140037,11 Art,Subject grade,B
+140037,11 Art,Subject grade 2,NA
+140037,11 Art,Subject grade 3,B
+140037,11 Biology,Subject grade,B
+140037,11 Biology,Subject grade 2,B
+140037,11 Biology,Subject grade 3,B
+140037,11 English Studies,Subject grade,A
+140037,11 English Studies,Subject grade 2,B
+140037,11 English Studies,Subject grade 3,A
+140037,11 History,Subject grade,B
+140037,11 History,Subject grade 2,B
+140037,11 History,Subject grade 3,B
+140037,11 Maths General,Subject grade,A
+140037,11 Maths General,Subject grade 2,B
+140037,11 Maths General,Subject grade 3,A
+140037,11 Physical Education,Subject grade,A
+140037,11 Physical Education,Subject grade 2,A
+140037,11 Physical Education,Subject grade 3,A
+140039,11 Energy Tech,Subject grade,B
+140039,11 Energy Tech,Subject grade 2,NA
+140039,11 Energy Tech,Subject grade 3,B
+140039,11 English Essentials,Subject grade,C+
+140039,11 English Essentials,Subject grade 2,NA
+140039,11 English Essentials,Subject grade 3,C+
+140039,11 Maths General,Subject grade,C
+140039,11 Maths General,Subject grade 2,D
+140039,11 Maths General,Subject grade 3,C
+140039,11 Outdoor Const,Subject grade,A
+140039,11 Outdoor Const,Subject grade 2,NA
+140039,11 Outdoor Const,Subject grade 3,A
+140039,11 Research Practices,Subject grade,C+
+140039,11 Research Practices,Subject grade 2,NA
+140039,11 Research Practices,Subject grade 3,C+
+140039,11 Woodwork,Subject grade,A
+140039,11 Woodwork,Subject grade 2,NA
+140039,11 Woodwork,Subject grade 3,A
+140040,11 Art,Subject grade,B
+140040,11 Art,Subject grade 2,NA
+140040,11 Art,Subject grade 3,B
+140040,11 Digital Photography,Subject grade,B
+140040,11 Digital Photography,Subject grade 2,NA
+140040,11 Digital Photography,Subject grade 3,B
+140040,11 English,Subject grade,A
+140040,11 English,Subject grade 2,NA
+140040,11 English,Subject grade 3,A
+140040,11 Hospitality,Subject grade,A
+140040,11 Hospitality,Subject grade 2,NA
+140040,11 Hospitality,Subject grade 3,A
+140040,11 Maths General,Subject grade,C+
+140040,11 Maths General,Subject grade 2,D
+140040,11 Maths General,Subject grade 3,C
+140040,11 Research Practices,Subject grade,A
+140040,11 Research Practices,Subject grade 2,NA
+140040,11 Research Practices,Subject grade 3,A
+140041,11 Art,Subject grade,B
+140041,11 Art,Subject grade 2,NA
+140041,11 Art,Subject grade 3,B
+140041,11 Design,Subject grade,B
+140041,11 Design,Subject grade 2,NA
+140041,11 Design,Subject grade 3,B
+140041,11 English Studies,Subject grade,B
+140041,11 English Studies,Subject grade 2,C+
+140041,11 English Studies,Subject grade 3,B
+140041,11 Hospitality,Subject grade,C+
+140041,11 Hospitality,Subject grade 2,NA
+140041,11 Hospitality,Subject grade 3,C+
+140041,11 Legal Studies,Subject grade,C-
+140041,11 Legal Studies,Subject grade 2,D
+140041,11 Legal Studies,Subject grade 3,C
+140041,11 Research Practices,Subject grade,B
+140041,11 Research Practices,Subject grade 2,NA
+140041,11 Research Practices,Subject grade 3,B
+140046,11 Chemistry,Subject grade,B
+140046,11 Chemistry,Subject grade 2,C
+140046,11 Chemistry,Subject grade 3,B
+140046,11 English,Subject grade,B
+140046,11 English,Subject grade 2,NA
+140046,11 English,Subject grade 3,B
+140046,11 Maths Studies 3,Subject grade,B
+140046,11 Maths Studies 3,Subject grade 2,B
+140046,11 Maths Studies 3,Subject grade 3,B
+140046,11 Maths Studies 4,Subject grade,B
+140046,11 Maths Studies 4,Subject grade 2,C
+140046,11 Maths Studies 4,Subject grade 3,C
+140046,11 Physical Education,Subject grade,A
+140046,11 Physical Education,Subject grade 2,A
+140046,11 Physical Education,Subject grade 3,A
+140046,11 Physics,Subject grade,B
+140046,11 Physics,Subject grade 2,C
+140046,11 Physics,Subject grade 3,B
+140047,11 Biology,Subject grade,C-
+140047,11 Biology,Subject grade 2,D
+140047,11 Biology,Subject grade 3,C-
+140047,11 English Studies,Subject grade,C
+140047,11 English Studies,Subject grade 2,C
+140047,11 English Studies,Subject grade 3,C
+140047,11 Hospitality,Subject grade,B
+140047,11 Hospitality,Subject grade 2,NA
+140047,11 Hospitality,Subject grade 3,C+
+140047,11 Maths General,Subject grade,C
+140047,11 Maths General,Subject grade 2,E
+140047,11 Maths General,Subject grade 3,C
+140047,11 Nutrition,Subject grade,C
+140047,11 Nutrition,Subject grade 2,NA
+140047,11 Nutrition,Subject grade 3,C-
+140047,11 Research Practices,Subject grade,C-
+140047,11 Research Practices,Subject grade 2,NA
+140047,11 Research Practices,Subject grade 3,C-
+140048,11 Digital Photography,Subject grade,D
+140048,11 Digital Photography,Subject grade 2,NA
+140048,11 Digital Photography,Subject grade 3,E
+140048,11 English Essentials,Subject grade,C
+140048,11 English Essentials,Subject grade 2,NA
+140048,11 English Essentials,Subject grade 3,C
+140048,11 Hospitality,Subject grade,E
+140048,11 Hospitality,Subject grade 2,NA
+140048,11 Hospitality,Subject grade 3,E
+140048,11 Maths Essentials,Subject grade,C-
+140048,11 Maths Essentials,Subject grade 2,E
+140048,11 Maths Essentials,Subject grade 3,C-
+140048,11 Scientific St B,Subject grade,C-
+140048,11 Scientific St B,Subject grade 2,NA
+140048,11 Scientific St B,Subject grade 3,C
+140048,11 Woodwork,Subject grade,C
+140048,11 Woodwork,Subject grade 2,NA
+140048,11 Woodwork,Subject grade 3,C
+140049,11 Biology,Subject grade,C-
+140049,11 Biology,Subject grade 2,C-
+140049,11 Biology,Subject grade 3,C
+140049,11 English Studies,Subject grade,B
+140049,11 English Studies,Subject grade 2,C+
+140049,11 English Studies,Subject grade 3,B
+140049,11 Maths General,Subject grade,D
+140049,11 Maths General,Subject grade 2,C-
+140049,11 Maths General,Subject grade 3,D
+140049,11 Nutrition,Subject grade,B
+140049,11 Nutrition,Subject grade 2,NA
+140049,11 Nutrition,Subject grade 3,B
+140049,11 Physical Education,Subject grade,C+
+140049,11 Physical Education,Subject grade 2,B
+140049,11 Physical Education,Subject grade 3,C+
+140051,11 Chemistry,Subject grade,A
+140051,11 Chemistry,Subject grade 2,A
+140051,11 Chemistry,Subject grade 3,A
+140051,11 English Studies,Subject grade,B
+140051,11 English Studies,Subject grade 2,B
+140051,11 English Studies,Subject grade 3,B
+140051,11 Maths Studies 3,Subject grade,A
+140051,11 Maths Studies 3,Subject grade 2,A
+140051,11 Maths Studies 3,Subject grade 3,A
+140051,11 Maths Studies 4,Subject grade,B
+140051,11 Maths Studies 4,Subject grade 2,B
+140051,11 Maths Studies 4,Subject grade 3,A
+140051,11 Music B,Subject grade,A
+140051,11 Music B,Subject grade 2,A
+140051,11 Music B,Subject grade 3,A
+140051,11 Physics,Subject grade,A
+140051,11 Physics,Subject grade 2,B
+140051,11 Physics,Subject grade 3,A
+140052,11 Biology,Subject grade,B
+140052,11 Biology,Subject grade 2,C+
+140052,11 Biology,Subject grade 3,C+
+140052,11 English,Subject grade,C
+140052,11 English,Subject grade 2,NA
+140052,11 English,Subject grade 3,C
+140052,11 History,Subject grade,E
+140052,11 History,Subject grade 2,C+
+140052,11 History,Subject grade 3,C+
+140052,11 Maths Studies 3,Subject grade,C
+140052,11 Maths Studies 3,Subject grade 2,B
+140052,11 Maths Studies 3,Subject grade 3,C+
+140052,11 Maths Studies 4,Subject grade,C-
+140052,11 Maths Studies 4,Subject grade 2,D
+140052,11 Maths Studies 4,Subject grade 3,C-
+140052,11 Physical Education,Subject grade,C
+140052,11 Physical Education,Subject grade 2,D
+140052,11 Physical Education,Subject grade 3,C
+140053,11 English,Subject grade,B
+140053,11 English,Subject grade 2,NA
+140053,11 English,Subject grade 3,B
+140053,11 History,Subject grade,E
+140053,11 History,Subject grade 2,C-
+140053,11 History,Subject grade 3,C-
+140053,11 Info Pro & Pub,Subject grade,B
+140053,11 Info Pro & Pub,Subject grade 2,NA
+140053,11 Info Pro & Pub,Subject grade 3,B
+140053,11 Maths General,Subject grade,B
+140053,11 Maths General,Subject grade 2,B
+140053,11 Maths General,Subject grade 3,B
+140053,11 Physical Education,Subject grade,C
+140053,11 Physical Education,Subject grade 2,D
+140053,11 Physical Education,Subject grade 3,C
+140053,11 Woodwork,Subject grade,A
+140053,11 Woodwork,Subject grade 2,NA
+140053,11 Woodwork,Subject grade 3,A
+140055,11 Art,Subject grade,B
+140055,11 Art,Subject grade 2,NA
+140055,11 Art,Subject grade 3,B
+140055,11 Biology,Subject grade,B
+140055,11 Biology,Subject grade 2,C+
+140055,11 Biology,Subject grade 3,B
+140055,11 English,Subject grade,B
+140055,11 English,Subject grade 2,NA
+140055,11 English,Subject grade 3,A
+140055,11 Hospitality,Subject grade,A
+140055,11 Hospitality,Subject grade 2,NA
+140055,11 Hospitality,Subject grade 3,A
+140055,11 Maths General,Subject grade,B
+140055,11 Maths General,Subject grade 2,B
+140055,11 Maths General,Subject grade 3,B
+140055,11 Nutrition,Subject grade,A
+140055,11 Nutrition,Subject grade 2,NA
+140055,11 Nutrition,Subject grade 3,A
+140056,11 Biology,Subject grade,B
+140056,11 Biology,Subject grade 2,C+
+140056,11 Biology,Subject grade 3,B
+140056,11 Digital Photography,Subject grade,C+
+140056,11 Digital Photography,Subject grade 2,NA
+140056,11 Digital Photography,Subject grade 3,B
+140056,11 English,Subject grade,B
+140056,11 English,Subject grade 2,NA
+140056,11 English,Subject grade 3,A
+140056,11 Geography,Subject grade,B
+140056,11 Geography,Subject grade 2,C
+140056,11 Geography,Subject grade 3,C
+140056,11 History,Subject grade,B
+140056,11 History,Subject grade 2,C
+140056,11 History,Subject grade 3,A
+140056,11 Research Practices,Subject grade,B
+140056,11 Research Practices,Subject grade 2,NA
+140056,11 Research Practices,Subject grade 3,B
+140059,11 Biology,Subject grade,C
+140059,11 Biology,Subject grade 2,D
+140059,11 Biology,Subject grade 3,C
+140059,11 English,Subject grade,B
+140059,11 English,Subject grade 2,NA
+140059,11 English,Subject grade 3,B
+140059,11 Legal Studies,Subject grade,C
+140059,11 Legal Studies,Subject grade 2,D
+140059,11 Legal Studies,Subject grade 3,C
+140059,11 Maths General,Subject grade,C
+140059,11 Maths General,Subject grade 2,D
+140059,11 Maths General,Subject grade 3,D
+140059,11 Nutrition,Subject grade,B
+140059,11 Nutrition,Subject grade 2,NA
+140059,11 Nutrition,Subject grade 3,B
+140059,11 Physical Education,Subject grade,B
+140059,11 Physical Education,Subject grade 2,D
+140059,11 Physical Education,Subject grade 3,B
+140064,11 Chemistry,Subject grade,C
+140064,11 Chemistry,Subject grade 2,E
+140064,11 Chemistry,Subject grade 3,C-
+140064,11 English Studies,Subject grade,B
+140064,11 English Studies,Subject grade 2,B
+140064,11 English Studies,Subject grade 3,B
+140064,11 Maths General,Subject grade,B
+140064,11 Maths General,Subject grade 2,C
+140064,11 Maths General,Subject grade 3,B
+140064,11 Metalwork,Subject grade,B
+140064,11 Metalwork,Subject grade 2,NA
+140064,11 Metalwork,Subject grade 3,B
+140064,11 Music B,Subject grade,B
+140064,11 Music B,Subject grade 2,C-
+140064,11 Music B,Subject grade 3,B
+140064,11 Physical Education,Subject grade,B
+140064,11 Physical Education,Subject grade 2,C+
+140064,11 Physical Education,Subject grade 3,B
+140067,11 Energy Tech,Subject grade,C
+140067,11 Energy Tech,Subject grade 2,NA
+140067,11 Energy Tech,Subject grade 3,C
+140067,11 English,Subject grade,C+
+140067,11 English,Subject grade 2,NA
+140067,11 English,Subject grade 3,C+
+140067,11 Hospitality,Subject grade,C
+140067,11 Hospitality,Subject grade 2,NA
+140067,11 Hospitality,Subject grade 3,C
+140067,11 Maths General,Subject grade,C-
+140067,11 Maths General,Subject grade 2,E
+140067,11 Maths General,Subject grade 3,C-
+140067,11 Woodwork,Subject grade,B
+140067,11 Woodwork,Subject grade 2,NA
+140067,11 Woodwork,Subject grade 3,B
+140073,11 Energy Tech,Subject grade,E
+140073,11 Energy Tech,Subject grade 2,NA
+140073,11 Energy Tech,Subject grade 3,E
+140073,11 English Essentials,Subject grade,C+
+140073,11 English Essentials,Subject grade 2,NA
+140073,11 English Essentials,Subject grade 3,B
+140073,11 Info Pro & Pub,Subject grade,E
+140073,11 Info Pro & Pub,Subject grade 2,NA
+140073,11 Info Pro & Pub,Subject grade 3,E
+140073,11 Maths General,Subject grade,E
+140073,11 Maths General,Subject grade 2,E
+140073,11 Maths General,Subject grade 3,D
+140073,11 Sport & Recreation,Subject grade,E
+140073,11 Sport & Recreation,Subject grade 2,NA
+140073,11 Sport & Recreation,Subject grade 3,D
+140073,11 Woodwork,Subject grade,E
+140073,11 Woodwork,Subject grade 2,NA
+140073,11 Woodwork,Subject grade 3,E
+140074,11 ESL,Subject grade,A
+140074,11 ESL,Subject grade 2,A
+140074,11 ESL,Subject grade 3,A
+140074,11 Hospitality,Subject grade,B
+140074,11 Hospitality,Subject grade 2,NA
+140074,11 Hospitality,Subject grade 3,B
+140074,11 Legal Studies,Subject grade,C-
+140074,11 Legal Studies,Subject grade 2,D
+140074,11 Legal Studies,Subject grade 3,C
+140074,11 Nutrition,Subject grade,B
+140074,11 Nutrition,Subject grade 2,NA
+140074,11 Nutrition,Subject grade 3,B
+140074,11 Research Practices,Subject grade,B
+140074,11 Research Practices,Subject grade 2,NA
+140074,11 Research Practices,Subject grade 3,B
+140074,11 Scientific St B,Subject grade,A
+140074,11 Scientific St B,Subject grade 2,NA
+140074,11 Scientific St B,Subject grade 3,A
+140076,11 Art,Subject grade,A
+140076,11 Art,Subject grade 2,NA
+140076,11 Art,Subject grade 3,A
+140076,11 Biology,Subject grade,B
+140076,11 Biology,Subject grade 2,B
+140076,11 Biology,Subject grade 3,B
+140076,11 Digital Photography,Subject grade,B
+140076,11 Digital Photography,Subject grade 2,NA
+140076,11 Digital Photography,Subject grade 3,A
+140076,11 English Studies,Subject grade,A
+140076,11 English Studies,Subject grade 2,A
+140076,11 English Studies,Subject grade 3,A
+140076,11 Geography,Subject grade,A
+140076,11 Geography,Subject grade 2,C+
+140076,11 Geography,Subject grade 3,A
+140076,11 History,Subject grade,A
+140076,11 History,Subject grade 2,A
+140076,11 History,Subject grade 3,A
+140080,11 English Studies,Subject grade,B
+140080,11 English Studies,Subject grade 2,B
+140080,11 English Studies,Subject grade 3,B
+140080,11 History,Subject grade,C+
+140080,11 History,Subject grade 2,C
+140080,11 History,Subject grade 3,B
+140080,11 Hospitality,Subject grade,B
+140080,11 Hospitality,Subject grade 2,NA
+140080,11 Hospitality,Subject grade 3,B
+140080,11 Legal Studies,Subject grade,C+
+140080,11 Legal Studies,Subject grade 2,C-
+140080,11 Legal Studies,Subject grade 3,B
+140080,11 Maths General,Subject grade,C+
+140080,11 Maths General,Subject grade 2,B
+140080,11 Maths General,Subject grade 3,C+
+140081,11 Biology,Subject grade,B
+140081,11 Biology,Subject grade 2,B
+140081,11 Biology,Subject grade 3,B
+140081,11 Design,Subject grade,B
+140081,11 Design,Subject grade 2,NA
+140081,11 Design,Subject grade 3,B
+140081,11 English Studies,Subject grade,B
+140081,11 English Studies,Subject grade 2,B
+140081,11 English Studies,Subject grade 3,B
+140081,11 Hospitality,Subject grade,B
+140081,11 Hospitality,Subject grade 2,NA
+140081,11 Hospitality,Subject grade 3,B
+140081,11 Legal Studies,Subject grade,B
+140081,11 Legal Studies,Subject grade 2,C+
+140081,11 Legal Studies,Subject grade 3,B
+140081,11 Maths General,Subject grade,B
+140081,11 Maths General,Subject grade 2,B
+140081,11 Maths General,Subject grade 3,B
+140082,11 Biology,Subject grade,C-
+140082,11 Biology,Subject grade 2,E
+140082,11 Biology,Subject grade 3,C
+140082,11 English Studies,Subject grade,B
+140082,11 English Studies,Subject grade 2,B
+140082,11 English Studies,Subject grade 3,B
+140082,11 History,Subject grade,B
+140082,11 History,Subject grade 2,B
+140082,11 History,Subject grade 3,B
+140082,11 Hospitality,Subject grade,B
+140082,11 Hospitality,Subject grade 2,NA
+140082,11 Hospitality,Subject grade 3,B
+140082,11 Maths General,Subject grade,B
+140082,11 Maths General,Subject grade 2,C-
+140082,11 Maths General,Subject grade 3,C+
+140082,11 Sport & Recreation,Subject grade,B
+140082,11 Sport & Recreation,Subject grade 2,NA
+140082,11 Sport & Recreation,Subject grade 3,B
+140084,11 English,Subject grade,B
+140084,11 English,Subject grade 2,NA
+140084,11 English,Subject grade 3,B
+140084,11 Hospitality,Subject grade,B
+140084,11 Hospitality,Subject grade 2,NA
+140084,11 Hospitality,Subject grade 3,B
+140084,11 Maths General,Subject grade,C
+140084,11 Maths General,Subject grade 2,C
+140084,11 Maths General,Subject grade 3,C
+140084,11 Physical Education,Subject grade,B
+140084,11 Physical Education,Subject grade 2,B
+140084,11 Physical Education,Subject grade 3,B
+140084,11 Sport & Recreation,Subject grade,B
+140084,11 Sport & Recreation,Subject grade 2,NA
+140084,11 Sport & Recreation,Subject grade 3,B
+140084,11 Woodwork,Subject grade,A
+140084,11 Woodwork,Subject grade 2,NA
+140084,11 Woodwork,Subject grade 3,A
+140085,11 Biology,Subject grade,A
+140085,11 Biology,Subject grade 2,A
+140085,11 Biology,Subject grade 3,A
+140085,11 Chemistry,Subject grade,A
+140085,11 Chemistry,Subject grade 2,A
+140085,11 Chemistry,Subject grade 3,A
+140085,11 English,Subject grade,A
+140085,11 English,Subject grade 2,NA
+140085,11 English,Subject grade 3,A
+140085,11 Maths Studies 3,Subject grade,A
+140085,11 Maths Studies 3,Subject grade 2,A
+140085,11 Maths Studies 3,Subject grade 3,A
+140085,11 Maths Studies 4,Subject grade,A
+140085,11 Maths Studies 4,Subject grade 2,A
+140085,11 Maths Studies 4,Subject grade 3,A
+140085,11 Nutrition,Subject grade,A
+140085,11 Nutrition,Subject grade 2,NA
+140085,11 Nutrition,Subject grade 3,A
+140086,11 Biology,Subject grade,C
+140086,11 Biology,Subject grade 2,D
+140086,11 Biology,Subject grade 3,C
+140086,11 English Essentials,Subject grade,B
+140086,11 English Essentials,Subject grade 2,NA
+140086,11 English Essentials,Subject grade 3,B
+140086,11 Info Pro & Pub,Subject grade,C
+140086,11 Info Pro & Pub,Subject grade 2,NA
+140086,11 Info Pro & Pub,Subject grade 3,B
+140086,11 Legal Studies,Subject grade,C
+140086,11 Legal Studies,Subject grade 2,D
+140086,11 Legal Studies,Subject grade 3,C
+140086,11 Maths General,Subject grade,C+
+140086,11 Maths General,Subject grade 2,C
+140086,11 Maths General,Subject grade 3,C+
+140086,11 Physical Education,Subject grade,C
+140086,11 Physical Education,Subject grade 2,C
+140086,11 Physical Education,Subject grade 3,C+
+140087,11 Biology,Subject grade,B
+140087,11 Biology,Subject grade 2,A
+140087,11 Biology,Subject grade 3,B
+140087,11 Chemistry,Subject grade,A
+140087,11 Chemistry,Subject grade 2,A
+140087,11 Chemistry,Subject grade 3,A
+140087,11 English Studies,Subject grade,A
+140087,11 English Studies,Subject grade 2,A
+140087,11 English Studies,Subject grade 3,A
+140087,11 Hospitality,Subject grade,A
+140087,11 Hospitality,Subject grade 2,NA
+140087,11 Hospitality,Subject grade 3,A
+140087,11 Maths Studies 3,Subject grade,B
+140087,11 Maths Studies 3,Subject grade 2,A
+140087,11 Maths Studies 3,Subject grade 3,B
+140087,11 Physics,Subject grade,A
+140087,11 Physics,Subject grade 2,B
+140087,11 Physics,Subject grade 3,A
+140089,11 Art,Subject grade,B
+140089,11 Art,Subject grade 2,NA
+140089,11 Art,Subject grade 3,B
+140089,11 Digital Photography,Subject grade,B
+140089,11 Digital Photography,Subject grade 2,NA
+140089,11 Digital Photography,Subject grade 3,B
+140089,11 English,Subject grade,B
+140089,11 English,Subject grade 2,NA
+140089,11 English,Subject grade 3,B
+140089,11 Hospitality,Subject grade,A
+140089,11 Hospitality,Subject grade 2,NA
+140089,11 Hospitality,Subject grade 3,A
+140089,11 Maths General,Subject grade,C
+140089,11 Maths General,Subject grade 2,C
+140089,11 Maths General,Subject grade 3,C
+140089,11 Research Practices,Subject grade,B
+140089,11 Research Practices,Subject grade 2,NA
+140089,11 Research Practices,Subject grade 3,B
+140090,11 Biology,Subject grade,C
+140090,11 Biology,Subject grade 2,C
+140090,11 Biology,Subject grade 3,C
+140090,11 Design,Subject grade,C+
+140090,11 Design,Subject grade 2,NA
+140090,11 Design,Subject grade 3,C+
+140090,11 Digital Photography,Subject grade,C+
+140090,11 Digital Photography,Subject grade 2,NA
+140090,11 Digital Photography,Subject grade 3,C
+140090,11 English Studies,Subject grade,B
+140090,11 English Studies,Subject grade 2,B
+140090,11 English Studies,Subject grade 3,B
+140090,11 Maths General,Subject grade,C+
+140090,11 Maths General,Subject grade 2,C
+140090,11 Maths General,Subject grade 3,B
+140090,11 Woodwork,Subject grade,B
+140090,11 Woodwork,Subject grade 2,NA
+140090,11 Woodwork,Subject grade 3,B
+140091,11 English,Subject grade,B
+140091,11 English,Subject grade 2,NA
+140091,11 English,Subject grade 3,C+
+140091,11 Legal Studies,Subject grade,C+
+140091,11 Legal Studies,Subject grade 2,B
+140091,11 Legal Studies,Subject grade 3,C
+140091,11 Maths General,Subject grade,B
+140091,11 Maths General,Subject grade 2,A
+140091,11 Maths General,Subject grade 3,A
+140091,11 Metalwork,Subject grade,B
+140091,11 Metalwork,Subject grade 2,NA
+140091,11 Metalwork,Subject grade 3,B
+140091,11 Physical Education,Subject grade,C+
+140091,11 Physical Education,Subject grade 2,C-
+140091,11 Physical Education,Subject grade 3,B
+140091,11 Sport & Recreation,Subject grade,B
+140091,11 Sport & Recreation,Subject grade 2,NA
+140091,11 Sport & Recreation,Subject grade 3,B
+140092,11 Biology,Subject grade,B
+140092,11 Biology,Subject grade 2,B
+140092,11 Biology,Subject grade 3,B
+140092,11 Chemistry,Subject grade,B
+140092,11 Chemistry,Subject grade 2,C+
+140092,11 Chemistry,Subject grade 3,B
+140092,11 Energy Tech,Subject grade,A
+140092,11 Energy Tech,Subject grade 2,NA
+140092,11 Energy Tech,Subject grade 3,A
+140092,11 English Studies,Subject grade,B
+140092,11 English Studies,Subject grade 2,B
+140092,11 English Studies,Subject grade 3,B
+140092,11 Maths Studies 3,Subject grade,B
+140092,11 Maths Studies 3,Subject grade 2,B
+140092,11 Maths Studies 3,Subject grade 3,B
+140092,11 Physics,Subject grade,B
+140092,11 Physics,Subject grade 2,B
+140092,11 Physics,Subject grade 3,B
+140094,11 Art,Subject grade,C
+140094,11 Art,Subject grade 2,NA
+140094,11 Art,Subject grade 3,C
+140094,11 Digital Photography,Subject grade,C
+140094,11 Digital Photography,Subject grade 2,NA
+140094,11 Digital Photography,Subject grade 3,C
+140094,11 English,Subject grade,C+
+140094,11 English,Subject grade 2,NA
+140094,11 English,Subject grade 3,C+
+140094,11 History,Subject grade,C
+140094,11 History,Subject grade 2,C-
+140094,11 History,Subject grade 3,C
+140094,11 Hospitality,Subject grade,C
+140094,11 Hospitality,Subject grade 2,NA
+140094,11 Hospitality,Subject grade 3,C
+140096,11 English,Subject grade,C+
+140096,11 English,Subject grade 2,NA
+140096,11 English,Subject grade 3,C+
+140096,11 Maths General,Subject grade,blank
+140096,11 Maths General,Subject grade 2,blank
+140096,11 Maths General,Subject grade 3,blank
+140097,11 English,Subject grade,B
+140097,11 English,Subject grade 2,NA
+140097,11 English,Subject grade 3,B
+140097,11 History,Subject grade,B
+140097,11 History,Subject grade 2,C
+140097,11 History,Subject grade 3,B
+140097,11 Outdoor Const,Subject grade,C
+140097,11 Outdoor Const,Subject grade 2,NA
+140097,11 Outdoor Const,Subject grade 3,C
+140097,11 Sport & Recreation,Subject grade,C-
+140097,11 Sport & Recreation,Subject grade 2,NA
+140097,11 Sport & Recreation,Subject grade 3,C
+140097,11 Woodwork,Subject grade,C
+140097,11 Woodwork,Subject grade 2,NA
+140097,11 Woodwork,Subject grade 3,C+
+140098,11 Biology,Subject grade,C-
+140098,11 Biology,Subject grade 2,D
+140098,11 Biology,Subject grade 3,C-
+140098,11 Design,Subject grade,C+
+140098,11 Design,Subject grade 2,NA
+140098,11 Design,Subject grade 3,C+
+140098,11 English,Subject grade,B
+140098,11 English,Subject grade 2,NA
+140098,11 English,Subject grade 3,B
+140098,11 Hospitality,Subject grade,C-
+140098,11 Hospitality,Subject grade 2,NA
+140098,11 Hospitality,Subject grade 3,C-
+140098,11 Maths General,Subject grade,C+
+140098,11 Maths General,Subject grade 2,D
+140098,11 Maths General,Subject grade 3,C+
+140099,11 English,Subject grade,C
+140099,11 English,Subject grade 2,NA
+140099,11 English,Subject grade 3,C
+140099,11 Hospitality,Subject grade,C-
+140099,11 Hospitality,Subject grade 2,NA
+140099,11 Hospitality,Subject grade 3,C-
+140099,11 Metalwork,Subject grade,B
+140099,11 Metalwork,Subject grade 2,NA
+140099,11 Metalwork,Subject grade 3,B
+140099,11 Sport & Recreation,Subject grade,B
+140099,11 Sport & Recreation,Subject grade 2,NA
+140099,11 Sport & Recreation,Subject grade 3,B
+140099,11 Woodwork,Subject grade,B
+140099,11 Woodwork,Subject grade 2,NA
+140099,11 Woodwork,Subject grade 3,B
+140100,11 Chemistry,Subject grade,B
+140100,11 Chemistry,Subject grade 2,C-
+140100,11 Chemistry,Subject grade 3,B
+140100,11 Digital Photography,Subject grade,B
+140100,11 Digital Photography,Subject grade 2,NA
+140100,11 Digital Photography,Subject grade 3,A
+140100,11 English,Subject grade,A
+140100,11 English,Subject grade 2,NA
+140100,11 English,Subject grade 3,A
+140100,11 Geography,Subject grade,B
+140100,11 Geography,Subject grade 2,B
+140100,11 Geography,Subject grade 3,B
+140100,11 History,Subject grade,A
+140100,11 History,Subject grade 2,B
+140100,11 History,Subject grade 3,B
+140100,11 Maths General,Subject grade,A
+140100,11 Maths General,Subject grade 2,A
+140100,11 Maths General,Subject grade 3,A
+140102,11 Design,Subject grade,C+
+140102,11 Design,Subject grade 2,NA
+140102,11 Design,Subject grade 3,C+
+140102,11 Digital Photography,Subject grade,C+
+140102,11 Digital Photography,Subject grade 2,NA
+140102,11 Digital Photography,Subject grade 3,C+
+140102,11 English,Subject grade,B
+140102,11 English,Subject grade 2,NA
+140102,11 English,Subject grade 3,B
+140102,11 Legal Studies,Subject grade,C-
+140102,11 Legal Studies,Subject grade 2,D
+140102,11 Legal Studies,Subject grade 3,C
+140102,11 Maths General,Subject grade,C+
+140102,11 Maths General,Subject grade 2,B
+140102,11 Maths General,Subject grade 3,B
+140102,11 Woodwork,Subject grade,B
+140102,11 Woodwork,Subject grade 2,NA
+140102,11 Woodwork,Subject grade 3,B
+140103,11 English Essentials,Subject grade,C+
+140103,11 English Essentials,Subject grade 2,NA
+140103,11 English Essentials,Subject grade 3,C
+140103,11 Hospitality,Subject grade,C+
+140103,11 Hospitality,Subject grade 2,NA
+140103,11 Hospitality,Subject grade 3,C
+140103,11 Maths General,Subject grade,C
+140103,11 Maths General,Subject grade 2,C
+140103,11 Maths General,Subject grade 3,C+
+140103,11 Physical Education,Subject grade,B
+140103,11 Physical Education,Subject grade 2,C
+140103,11 Physical Education,Subject grade 3,B
+140103,11 Research Practices,Subject grade,C+
+140103,11 Research Practices,Subject grade 2,NA
+140103,11 Research Practices,Subject grade 3,C+
+140103,11 Woodwork,Subject grade,B
+140103,11 Woodwork,Subject grade 2,NA
+140103,11 Woodwork,Subject grade 3,B
+140104,11 Energy Tech,Subject grade,B
+140104,11 Energy Tech,Subject grade 2,NA
+140104,11 Energy Tech,Subject grade 3,B
+140104,11 English,Subject grade,D
+140104,11 English,Subject grade 2,NA
+140104,11 English,Subject grade 3,C
+140104,11 Maths General,Subject grade,C
+140104,11 Maths General,Subject grade 2,C-
+140104,11 Maths General,Subject grade 3,C
+140104,11 Physical Education,Subject grade,C+
+140104,11 Physical Education,Subject grade 2,E
+140104,11 Physical Education,Subject grade 3,C
+140104,11 Sport & Recreation,Subject grade,C+
+140104,11 Sport & Recreation,Subject grade 2,NA
+140104,11 Sport & Recreation,Subject grade 3,C+
+140105,11 Biology,Subject grade,B
+140105,11 Biology,Subject grade 2,B
+140105,11 Biology,Subject grade 3,B
+140105,11 Chemistry,Subject grade,B
+140105,11 Chemistry,Subject grade 2,D
+140105,11 Chemistry,Subject grade 3,B
+140105,11 English,Subject grade,B
+140105,11 English,Subject grade 2,NA
+140105,11 English,Subject grade 3,B
+140105,11 Hospitality,Subject grade,B
+140105,11 Hospitality,Subject grade 2,NA
+140105,11 Hospitality,Subject grade 3,B
+140105,11 Maths Studies 3,Subject grade,B
+140105,11 Maths Studies 3,Subject grade 2,C+
+140105,11 Maths Studies 3,Subject grade 3,C+
+140105,11 Physical Education,Subject grade,A
+140105,11 Physical Education,Subject grade 2,A
+140105,11 Physical Education,Subject grade 3,B
+140106,11 English Essentials,Subject grade,C+
+140106,11 English Essentials,Subject grade 2,NA
+140106,11 English Essentials,Subject grade 3,C+
+140106,11 Hospitality,Subject grade,D
+140106,11 Hospitality,Subject grade 2,NA
+140106,11 Hospitality,Subject grade 3,C-
+140106,11 Info Pro & Pub,Subject grade,D
+140106,11 Info Pro & Pub,Subject grade 2,NA
+140106,11 Info Pro & Pub,Subject grade 3,D
+140106,11 Outdoor Const,Subject grade,C+
+140106,11 Outdoor Const,Subject grade 2,NA
+140106,11 Outdoor Const,Subject grade 3,C+
+140106,11 Sport & Recreation,Subject grade,C+
+140106,11 Sport & Recreation,Subject grade 2,NA
+140106,11 Sport & Recreation,Subject grade 3,C+
+140107,11 Biology,Subject grade,B
+140107,11 Biology,Subject grade 2,C+
+140107,11 Biology,Subject grade 3,B
+140107,11 Chemistry,Subject grade,B
+140107,11 Chemistry,Subject grade 2,C
+140107,11 Chemistry,Subject grade 3,B
+140107,11 English Studies,Subject grade,B
+140107,11 English Studies,Subject grade 2,B
+140107,11 English Studies,Subject grade 3,B
+140107,11 Maths Studies 3,Subject grade,B
+140107,11 Maths Studies 3,Subject grade 2,B
+140107,11 Maths Studies 3,Subject grade 3,B
+140107,11 Physical Education,Subject grade,A
+140107,11 Physical Education,Subject grade 2,A
+140107,11 Physical Education,Subject grade 3,B
+140111,11 Biology,Subject grade,A
+140111,11 Biology,Subject grade 2,A
+140111,11 Biology,Subject grade 3,A
+140111,11 Chemistry,Subject grade,A
+140111,11 Chemistry,Subject grade 2,C+
+140111,11 Chemistry,Subject grade 3,A
+140111,11 Design,Subject grade,A
+140111,11 Design,Subject grade 2,NA
+140111,11 Design,Subject grade 3,A
+140111,11 English Studies,Subject grade,A
+140111,11 English Studies,Subject grade 2,A
+140111,11 English Studies,Subject grade 3,A
+140111,11 Legal Studies,Subject grade,A
+140111,11 Legal Studies,Subject grade 2,A
+140111,11 Legal Studies,Subject grade 3,A
+140111,11 Maths General,Subject grade,A
+140111,11 Maths General,Subject grade 2,A
+140111,11 Maths General,Subject grade 3,A
+140112,11 Biology,Subject grade,B
+140112,11 Biology,Subject grade 2,B
+140112,11 Biology,Subject grade 3,B
+140112,11 Chemistry,Subject grade,C
+140112,11 Chemistry,Subject grade 2,E
+140112,11 Chemistry,Subject grade 3,C
+140112,11 English Studies,Subject grade,B
+140112,11 English Studies,Subject grade 2,B
+140112,11 English Studies,Subject grade 3,B
+140112,11 Maths General,Subject grade,A
+140112,11 Maths General,Subject grade 2,A
+140112,11 Maths General,Subject grade 3,A
+140112,11 Physics,Subject grade,C+
+140112,11 Physics,Subject grade 2,D
+140112,11 Physics,Subject grade 3,B
+140113,11 Chemistry,Subject grade,C+
+140113,11 Chemistry,Subject grade 2,C-
+140113,11 Chemistry,Subject grade 3,C+
+140113,11 English Studies,Subject grade,B
+140113,11 English Studies,Subject grade 2,B
+140113,11 English Studies,Subject grade 3,B
+140113,11 History,Subject grade,B
+140113,11 History,Subject grade 2,B
+140113,11 History,Subject grade 3,A
+140113,11 Hospitality,Subject grade,A
+140113,11 Hospitality,Subject grade 2,NA
+140113,11 Hospitality,Subject grade 3,A
+140113,11 Maths General,Subject grade,B
+140113,11 Maths General,Subject grade 2,B
+140113,11 Maths General,Subject grade 3,B
+140113,11 Woodwork,Subject grade,B
+140113,11 Woodwork,Subject grade 2,NA
+140113,11 Woodwork,Subject grade 3,B
+140115,11 Biology,Subject grade,B
+140115,11 Biology,Subject grade 2,B
+140115,11 Biology,Subject grade 3,B
+140115,11 Chemistry,Subject grade,B
+140115,11 Chemistry,Subject grade 2,D
+140115,11 Chemistry,Subject grade 3,B
+140115,11 English,Subject grade,A
+140115,11 English,Subject grade 2,NA
+140115,11 English,Subject grade 3,A
+140115,11 Geography,Subject grade,A
+140115,11 Geography,Subject grade 2,B
+140115,11 Geography,Subject grade 3,B
+140115,11 Maths General,Subject grade,A
+140115,11 Maths General,Subject grade 2,A
+140115,11 Maths General,Subject grade 3,A
+140115,11 Physical Education,Subject grade,A
+140115,11 Physical Education,Subject grade 2,A
+140115,11 Physical Education,Subject grade 3,A
+140117,11 English,Subject grade,B
+140117,11 English,Subject grade 2,NA
+140117,11 English,Subject grade 3,B
+140117,11 Maths Essentials,Subject grade,C-
+140117,11 Maths Essentials,Subject grade 2,C
+140117,11 Maths Essentials,Subject grade 3,C
+140117,11 Metalwork,Subject grade,B
+140117,11 Metalwork,Subject grade 2,NA
+140117,11 Metalwork,Subject grade 3,B
+140117,11 Outdoor Const,Subject grade,C+
+140117,11 Outdoor Const,Subject grade 2,NA
+140117,11 Outdoor Const,Subject grade 3,C+
+140117,11 Scientific St B,Subject grade,C
+140117,11 Scientific St B,Subject grade 2,NA
+140117,11 Scientific St B,Subject grade 3,C
+140117,11 Woodwork,Subject grade,B
+140117,11 Woodwork,Subject grade 2,NA
+140117,11 Woodwork,Subject grade 3,B
+140118,11 Energy Tech,Subject grade,E
+140118,11 Energy Tech,Subject grade 2,NA
+140118,11 Energy Tech,Subject grade 3,E
+140118,11 English,Subject grade,D
+140118,11 English,Subject grade 2,NA
+140118,11 English,Subject grade 3,D
+140118,11 Maths Essentials,Subject grade,C+
+140118,11 Maths Essentials,Subject grade 2,C
+140118,11 Maths Essentials,Subject grade 3,C+
+140118,11 Metalwork,Subject grade,C+
+140118,11 Metalwork,Subject grade 2,NA
+140118,11 Metalwork,Subject grade 3,C+
+140118,11 Physical Education,Subject grade,C+
+140118,11 Physical Education,Subject grade 2,C
+140118,11 Physical Education,Subject grade 3,C
+140118,11 Woodwork,Subject grade,C+
+140118,11 Woodwork,Subject grade 2,NA
+140118,11 Woodwork,Subject grade 3,C+
+140123,11 Biology,Subject grade,B
+140123,11 Biology,Subject grade 2,B
+140123,11 Biology,Subject grade 3,B
+140123,11 Chemistry,Subject grade,B
+140123,11 Chemistry,Subject grade 2,E
+140123,11 Chemistry,Subject grade 3,C+
+140123,11 English,Subject grade,C+
+140123,11 English,Subject grade 2,NA
+140123,11 English,Subject grade 3,C+
+140123,11 Maths Studies 3,Subject grade,B
+140123,11 Maths Studies 3,Subject grade 2,C+
+140123,11 Maths Studies 3,Subject grade 3,B
+140123,11 Maths Studies 4,Subject grade,C
+140123,11 Maths Studies 4,Subject grade 2,C-
+140123,11 Maths Studies 4,Subject grade 3,C
+140123,11 Physics,Subject grade,B
+140123,11 Physics,Subject grade 2,C-
+140123,11 Physics,Subject grade 3,B
+140125,11 Biology,Subject grade,C+
+140125,11 Biology,Subject grade 2,B
+140125,11 Biology,Subject grade 3,B
+140125,11 Chemistry,Subject grade,D
+140125,11 Chemistry,Subject grade 2,E
+140125,11 Chemistry,Subject grade 3,D
+140125,11 English,Subject grade,B
+140125,11 English,Subject grade 2,NA
+140125,11 English,Subject grade 3,B
+140125,11 Hospitality,Subject grade,B
+140125,11 Hospitality,Subject grade 2,NA
+140125,11 Hospitality,Subject grade 3,B
+140125,11 Maths General,Subject grade,B
+140125,11 Maths General,Subject grade 2,A
+140125,11 Maths General,Subject grade 3,B
+140125,11 Sport & Recreation,Subject grade,B
+140125,11 Sport & Recreation,Subject grade 2,NA
+140125,11 Sport & Recreation,Subject grade 3,B
+140126,11 English Essentials,Subject grade,C+
+140126,11 English Essentials,Subject grade 2,NA
+140126,11 English Essentials,Subject grade 3,B
+140126,11 Hospitality,Subject grade,C
+140126,11 Hospitality,Subject grade 2,NA
+140126,11 Hospitality,Subject grade 3,C
+140126,11 Legal Studies,Subject grade,C-
+140126,11 Legal Studies,Subject grade 2,D
+140126,11 Legal Studies,Subject grade 3,C
+140126,11 Maths Essentials,Subject grade,C
+140126,11 Maths Essentials,Subject grade 2,C
+140126,11 Maths Essentials,Subject grade 3,C
+140126,11 Scientific St B,Subject grade,B
+140126,11 Scientific St B,Subject grade 2,NA
+140126,11 Scientific St B,Subject grade 3,C+
+140126,11 Woodwork,Subject grade,B
+140126,11 Woodwork,Subject grade 2,NA
+140126,11 Woodwork,Subject grade 3,C+
+140127,11 Chemistry,Subject grade,B
+140127,11 Chemistry,Subject grade 2,B
+140127,11 Chemistry,Subject grade 3,B
+140127,11 English,Subject grade,B
+140127,11 English,Subject grade 2,NA
+140127,11 English,Subject grade 3,B
+140127,11 Maths Studies 3,Subject grade,C+
+140127,11 Maths Studies 3,Subject grade 2,B
+140127,11 Maths Studies 3,Subject grade 3,C+
+140127,11 Maths Studies 4,Subject grade,B
+140127,11 Maths Studies 4,Subject grade 2,C-
+140127,11 Maths Studies 4,Subject grade 3,C+
+140127,11 Physical Education,Subject grade,B
+140127,11 Physical Education,Subject grade 2,B
+140127,11 Physical Education,Subject grade 3,B
+140127,11 Physics,Subject grade,B
+140127,11 Physics,Subject grade 2,C+
+140127,11 Physics,Subject grade 3,B
+140129,11 English Essentials,Subject grade,C+
+140129,11 English Essentials,Subject grade 2,NA
+140129,11 English Essentials,Subject grade 3,C
+140129,11 Hospitality,Subject grade,C-
+140129,11 Hospitality,Subject grade 2,NA
+140129,11 Hospitality,Subject grade 3,C-
+140129,11 Maths General,Subject grade,C
+140129,11 Maths General,Subject grade 2,D
+140129,11 Maths General,Subject grade 3,D
+140129,11 Outdoor Const,Subject grade,B
+140129,11 Outdoor Const,Subject grade 2,NA
+140129,11 Outdoor Const,Subject grade 3,A
+140129,11 Woodwork,Subject grade,B
+140129,11 Woodwork,Subject grade 2,NA
+140129,11 Woodwork,Subject grade 3,B
+140130,11 Chemistry,Subject grade,A
+140130,11 Chemistry,Subject grade 2,A
+140130,11 Chemistry,Subject grade 3,A
+140130,11 English,Subject grade,B
+140130,11 English,Subject grade 2,NA
+140130,11 English,Subject grade 3,B
+140130,11 Maths Studies 3,Subject grade,A
+140130,11 Maths Studies 3,Subject grade 2,A
+140130,11 Maths Studies 3,Subject grade 3,A
+140130,11 Maths Studies 4,Subject grade,A
+140130,11 Maths Studies 4,Subject grade 2,A
+140130,11 Maths Studies 4,Subject grade 3,B
+140130,11 Physical Education,Subject grade,A
+140130,11 Physical Education,Subject grade 2,A
+140130,11 Physical Education,Subject grade 3,A
+140130,11 Physics,Subject grade,A
+140130,11 Physics,Subject grade 2,B
+140130,11 Physics,Subject grade 3,A
+140132,11 Biology,Subject grade,B
+140132,11 Biology,Subject grade 2,B
+140132,11 Biology,Subject grade 3,B
+140132,11 Chemistry,Subject grade,A
+140132,11 Chemistry,Subject grade 2,B
+140132,11 Chemistry,Subject grade 3,A
+140132,11 English,Subject grade,A
+140132,11 English,Subject grade 2,NA
+140132,11 English,Subject grade 3,A
+140132,11 Maths Studies 3,Subject grade,A
+140132,11 Maths Studies 3,Subject grade 2,B
+140132,11 Maths Studies 3,Subject grade 3,A
+140132,11 Maths Studies 4,Subject grade,C+
+140132,11 Maths Studies 4,Subject grade 2,C+
+140132,11 Maths Studies 4,Subject grade 3,B
+140132,11 Physics,Subject grade,A
+140132,11 Physics,Subject grade 2,C-
+140132,11 Physics,Subject grade 3,A
+140133,11 English Studies,Subject grade,B
+140133,11 English Studies,Subject grade 2,C+
+140133,11 English Studies,Subject grade 3,B
+140133,11 History,Subject grade,C
+140133,11 History,Subject grade 2,C
+140133,11 History,Subject grade 3,B
+140133,11 Hospitality,Subject grade,B
+140133,11 Hospitality,Subject grade 2,NA
+140133,11 Hospitality,Subject grade 3,B
+140133,11 Maths General,Subject grade,C+
+140133,11 Maths General,Subject grade 2,C
+140133,11 Maths General,Subject grade 3,C
+140133,11 Physical Education,Subject grade,C
+140133,11 Physical Education,Subject grade 2,C+
+140133,11 Physical Education,Subject grade 3,C+
+140133,11 Research Practices,Subject grade,B
+140133,11 Research Practices,Subject grade 2,NA
+140133,11 Research Practices,Subject grade 3,B
+140134,11 ESL,Subject grade,C
+140134,11 ESL,Subject grade 2,A
+140134,11 ESL,Subject grade 3,C
+140134,11 Hospitality,Subject grade,D
+140134,11 Hospitality,Subject grade 2,NA
+140134,11 Hospitality,Subject grade 3,D
+140134,11 Maths General,Subject grade,C-
+140134,11 Maths General,Subject grade 2,UC
+140134,11 Maths General,Subject grade 3,C-
+140134,11 Metalwork,Subject grade,B
+140134,11 Metalwork,Subject grade 2,NA
+140134,11 Metalwork,Subject grade 3,B
+140134,11 Physical Education,Subject grade,D
+140134,11 Physical Education,Subject grade 2,E
+140134,11 Physical Education,Subject grade 3,C
+140134,11 Research Practices,Subject grade,E
+140134,11 Research Practices,Subject grade 2,NA
+140134,11 Research Practices,Subject grade 3,E
+140135,11 Biology,Subject grade,C-
+140135,11 Biology,Subject grade 2,C-
+140135,11 Biology,Subject grade 3,C-
+140135,11 English,Subject grade,B
+140135,11 English,Subject grade 2,NA
+140135,11 English,Subject grade 3,B
+140135,11 Hospitality,Subject grade,C+
+140135,11 Hospitality,Subject grade 2,NA
+140135,11 Hospitality,Subject grade 3,C+
+140135,11 Maths Essentials,Subject grade,C
+140135,11 Maths Essentials,Subject grade 2,C
+140135,11 Maths Essentials,Subject grade 3,C
+140135,11 Nutrition,Subject grade,C
+140135,11 Nutrition,Subject grade 2,NA
+140135,11 Nutrition,Subject grade 3,C
+140135,11 Woodwork,Subject grade,B
+140135,11 Woodwork,Subject grade 2,NA
+140135,11 Woodwork,Subject grade 3,B
+140137,11 Biology,Subject grade,A
+140137,11 Biology,Subject grade 2,A
+140137,11 Biology,Subject grade 3,A
+140137,11 Chemistry,Subject grade,A
+140137,11 Chemistry,Subject grade 2,B
+140137,11 Chemistry,Subject grade 3,A
+140137,11 English Studies,Subject grade,B
+140137,11 English Studies,Subject grade 2,B
+140137,11 English Studies,Subject grade 3,B
+140137,11 Maths Studies 3,Subject grade,A
+140137,11 Maths Studies 3,Subject grade 2,A
+140137,11 Maths Studies 3,Subject grade 3,A
+140137,11 Maths Studies 4,Subject grade,B
+140137,11 Maths Studies 4,Subject grade 2,A
+140137,11 Maths Studies 4,Subject grade 3,A
+140137,11 Physics,Subject grade,A
+140137,11 Physics,Subject grade 2,A
+140137,11 Physics,Subject grade 3,A
+140138,11 English,Subject grade,B
+140138,11 English,Subject grade 2,NA
+140138,11 English,Subject grade 3,B
+140138,11 Geography,Subject grade,C-
+140138,11 Geography,Subject grade 2,C-
+140138,11 Geography,Subject grade 3,C
+140138,11 History,Subject grade,B
+140138,11 History,Subject grade 2,B
+140138,11 History,Subject grade 3,B
+140138,11 Maths General,Subject grade,B
+140138,11 Maths General,Subject grade 2,C
+140138,11 Maths General,Subject grade 3,B
+140138,11 Outdoor Const,Subject grade,A
+140138,11 Outdoor Const,Subject grade 2,NA
+140138,11 Outdoor Const,Subject grade 3,A
+140138,11 Woodwork,Subject grade,A
+140138,11 Woodwork,Subject grade 2,NA
+140138,11 Woodwork,Subject grade 3,A
+140140,11 Biology,Subject grade,A
+140140,11 Biology,Subject grade 2,B
+140140,11 Biology,Subject grade 3,A
+140140,11 Chemistry,Subject grade,A
+140140,11 Chemistry,Subject grade 2,B
+140140,11 Chemistry,Subject grade 3,A
+140140,11 English Studies,Subject grade,A
+140140,11 English Studies,Subject grade 2,A
+140140,11 English Studies,Subject grade 3,A
+140140,11 Maths Studies 3,Subject grade,A
+140140,11 Maths Studies 3,Subject grade 2,B
+140140,11 Maths Studies 3,Subject grade 3,A
+140140,11 Maths Studies 4,Subject grade,A
+140140,11 Maths Studies 4,Subject grade 2,B
+140140,11 Maths Studies 4,Subject grade 3,B
+140140,11 Physics,Subject grade,A
+140140,11 Physics,Subject grade 2,A
+140140,11 Physics,Subject grade 3,A
+140142,11 Biology,Subject grade,B
+140142,11 Biology,Subject grade 2,B
+140142,11 Biology,Subject grade 3,B
+140142,11 Chemistry,Subject grade,A
+140142,11 Chemistry,Subject grade 2,B
+140142,11 Chemistry,Subject grade 3,A
+140142,11 English,Subject grade,B
+140142,11 English,Subject grade 2,NA
+140142,11 English,Subject grade 3,B
+140142,11 Maths Studies 3,Subject grade,A
+140142,11 Maths Studies 3,Subject grade 2,A
+140142,11 Maths Studies 3,Subject grade 3,B
+140142,11 Maths Studies 4,Subject grade,B
+140142,11 Maths Studies 4,Subject grade 2,B
+140142,11 Maths Studies 4,Subject grade 3,B
+140142,11 Nutrition,Subject grade,A
+140142,11 Nutrition,Subject grade 2,NA
+140142,11 Nutrition,Subject grade 3,A
+140144,11 Biology,Subject grade,B
+140144,11 Biology,Subject grade 2,B
+140144,11 Biology,Subject grade 3,C-
+140144,11 Chemistry,Subject grade,C-
+140144,11 Chemistry,Subject grade 2,E
+140144,11 Chemistry,Subject grade 3,C
+140144,11 ESL,Subject grade,A
+140144,11 ESL,Subject grade 2,A
+140144,11 ESL,Subject grade 3,B
+140144,11 Maths General,Subject grade,B
+140144,11 Maths General,Subject grade 2,C+
+140144,11 Maths General,Subject grade 3,B
+140144,11 Nutrition,Subject grade,B
+140144,11 Nutrition,Subject grade 2,NA
+140144,11 Nutrition,Subject grade 3,C+
+140144,11 Physical Education,Subject grade,B
+140144,11 Physical Education,Subject grade 2,B
+140144,11 Physical Education,Subject grade 3,B
+140146,11 Biology,Subject grade,B
+140146,11 Biology,Subject grade 2,C
+140146,11 Biology,Subject grade 3,B
+140146,11 Energy Tech,Subject grade,B
+140146,11 Energy Tech,Subject grade 2,NA
+140146,11 Energy Tech,Subject grade 3,B
+140146,11 English,Subject grade,B
+140146,11 English,Subject grade 2,NA
+140146,11 English,Subject grade 3,B
+140146,11 Maths Studies 3,Subject grade,B
+140146,11 Maths Studies 3,Subject grade 2,D
+140146,11 Maths Studies 3,Subject grade 3,B
+140146,11 Physical Education,Subject grade,B
+140146,11 Physical Education,Subject grade 2,B
+140146,11 Physical Education,Subject grade 3,B
+140146,11 Physics,Subject grade,C+
+140146,11 Physics,Subject grade 2,E
+140146,11 Physics,Subject grade 3,C+
+140147,11 English Essentials,Subject grade,C+
+140147,11 English Essentials,Subject grade 2,NA
+140147,11 English Essentials,Subject grade 3,C
+140147,11 Hospitality,Subject grade,E
+140147,11 Hospitality,Subject grade 2,NA
+140147,11 Hospitality,Subject grade 3,D
+140147,11 Maths Essentials,Subject grade,C-
+140147,11 Maths Essentials,Subject grade 2,NA
+140147,11 Maths Essentials,Subject grade 3,C-
+140147,11 Outdoor Const,Subject grade,C-
+140147,11 Outdoor Const,Subject grade 2,NA
+140147,11 Outdoor Const,Subject grade 3,C-
+140147,11 Sport & Recreation,Subject grade,C-
+140147,11 Sport & Recreation,Subject grade 2,NA
+140147,11 Sport & Recreation,Subject grade 3,D
+140149,11 Biology,Subject grade,C
+140149,11 Biology,Subject grade 2,C+
+140149,11 Biology,Subject grade 3,C
+140149,11 Chemistry,Subject grade,B
+140149,11 Chemistry,Subject grade 2,C+
+140149,11 Chemistry,Subject grade 3,B
+140149,11 English,Subject grade,B
+140149,11 English,Subject grade 2,NA
+140149,11 English,Subject grade 3,B
+140149,11 Maths Studies 3,Subject grade,B
+140149,11 Maths Studies 3,Subject grade 2,B
+140149,11 Maths Studies 3,Subject grade 3,B
+140149,11 Maths Studies 4,Subject grade,C+
+140149,11 Maths Studies 4,Subject grade 2,C
+140149,11 Maths Studies 4,Subject grade 3,C+
+140149,11 Physics,Subject grade,B
+140149,11 Physics,Subject grade 2,C-
+140149,11 Physics,Subject grade 3,B
+140150,11 Art,Subject grade,C
+140150,11 Art,Subject grade 2,NA
+140150,11 Art,Subject grade 3,C
+140150,11 English,Subject grade,C+
+140150,11 English,Subject grade 2,NA
+140150,11 English,Subject grade 3,B
+140150,11 Hospitality,Subject grade,C+
+140150,11 Hospitality,Subject grade 2,NA
+140150,11 Hospitality,Subject grade 3,C+
+140150,11 Legal Studies,Subject grade,C+
+140150,11 Legal Studies,Subject grade 2,C
+140150,11 Legal Studies,Subject grade 3,C
+140150,11 Maths General,Subject grade,C+
+140150,11 Maths General,Subject grade 2,B
+140150,11 Maths General,Subject grade 3,B
+140150,11 Sport & Recreation,Subject grade,B
+140150,11 Sport & Recreation,Subject grade 2,NA
+140150,11 Sport & Recreation,Subject grade 3,B
+140151,11 English,Subject grade,B
+140151,11 English,Subject grade 2,NA
+140151,11 English,Subject grade 3,B
+140151,11 Maths General,Subject grade,B
+140151,11 Maths General,Subject grade 2,A
+140151,11 Maths General,Subject grade 3,B
+140151,11 Metalwork,Subject grade,B
+140151,11 Metalwork,Subject grade 2,NA
+140151,11 Metalwork,Subject grade 3,B
+140151,11 Music B,Subject grade,A
+140151,11 Music B,Subject grade 2,A
+140151,11 Music B,Subject grade 3,A
+140151,11 Physical Education,Subject grade,A
+140151,11 Physical Education,Subject grade 2,A
+140151,11 Physical Education,Subject grade 3,A
+140151,11 Woodwork,Subject grade,A
+140151,11 Woodwork,Subject grade 2,NA
+140151,11 Woodwork,Subject grade 3,A
+140153,11 Biology,Subject grade,D
+140153,11 Biology,Subject grade 2,E
+140153,11 Biology,Subject grade 3,D
+140153,11 Design,Subject grade,C
+140153,11 Design,Subject grade 2,NA
+140153,11 Design,Subject grade 3,C
+140153,11 English,Subject grade,B
+140153,11 English,Subject grade 2,NA
+140153,11 English,Subject grade 3,C+
+140153,11 Legal Studies,Subject grade,E
+140153,11 Legal Studies,Subject grade 2,D
+140153,11 Legal Studies,Subject grade 3,E
+140153,11 Maths General,Subject grade,C+
+140153,11 Maths General,Subject grade 2,B
+140153,11 Maths General,Subject grade 3,B
+140153,11 Music B,Subject grade,B
+140153,11 Music B,Subject grade 2,B
+140153,11 Music B,Subject grade 3,B
+140154,11 Biology,Subject grade,A
+140154,11 Biology,Subject grade 2,A
+140154,11 Biology,Subject grade 3,A
+140154,11 Chemistry,Subject grade,A
+140154,11 Chemistry,Subject grade 2,A
+140154,11 Chemistry,Subject grade 3,A
+140154,11 English,Subject grade,A
+140154,11 English,Subject grade 2,NA
+140154,11 English,Subject grade 3,A
+140154,11 Maths Studies 3,Subject grade,A
+140154,11 Maths Studies 3,Subject grade 2,A
+140154,11 Maths Studies 3,Subject grade 3,A
+140154,11 Maths Studies 4,Subject grade,A
+140154,11 Maths Studies 4,Subject grade 2,A
+140154,11 Maths Studies 4,Subject grade 3,A
+140154,11 Nutrition,Subject grade,A
+140154,11 Nutrition,Subject grade 2,NA
+140154,11 Nutrition,Subject grade 3,A
+140155,11 English,Subject grade,blank
+140155,11 English,Subject grade 2,NA
+140155,11 English,Subject grade 3,blank
+140155,11 Maths General,Subject grade,NA
+140155,11 Maths General,Subject grade 2,NA
+140155,11 Maths General,Subject grade 3,NA
+140155,11 Physical Education,Subject grade,NA
+140155,11 Physical Education,Subject grade 2,NA
+140155,11 Physical Education,Subject grade 3,NA
+140155,11 Woodwork,Subject grade,NA
+140155,11 Woodwork,Subject grade 2,NA
+140155,11 Woodwork,Subject grade 3,NA
+140156,11 English Essentials,Subject grade,B
+140156,11 English Essentials,Subject grade 2,NA
+140156,11 English Essentials,Subject grade 3,B
+140156,11 Maths Essentials,Subject grade,C-
+140156,11 Maths Essentials,Subject grade 2,E
+140156,11 Maths Essentials,Subject grade 3,C-
+140156,11 Physical Education,Subject grade,C
+140156,11 Physical Education,Subject grade 2,E
+140156,11 Physical Education,Subject grade 3,C
+140156,11 Scientific St B,Subject grade,E
+140156,11 Scientific St B,Subject grade 2,NA
+140156,11 Scientific St B,Subject grade 3,D
+140156,11 Woodwork,Subject grade,C
+140156,11 Woodwork,Subject grade 2,NA
+140156,11 Woodwork,Subject grade 3,C-
+140157,11 English,Subject grade,B
+140157,11 English,Subject grade 2,NA
+140157,11 English,Subject grade 3,B
+140157,11 Hospitality,Subject grade,C+
+140157,11 Hospitality,Subject grade 2,NA
+140157,11 Hospitality,Subject grade 3,C+
+140157,11 Maths General,Subject grade,C
+140157,11 Maths General,Subject grade 2,C-
+140157,11 Maths General,Subject grade 3,C
+140157,11 Nutrition,Subject grade,A
+140157,11 Nutrition,Subject grade 2,NA
+140157,11 Nutrition,Subject grade 3,A
+140157,11 Sport & Recreation,Subject grade,B
+140157,11 Sport & Recreation,Subject grade 2,NA
+140157,11 Sport & Recreation,Subject grade 3,B
+140157,11 Woodwork,Subject grade,B
+140157,11 Woodwork,Subject grade 2,NA
+140157,11 Woodwork,Subject grade 3,B
+140158,11 Art,Subject grade,B
+140158,11 Art,Subject grade 2,NA
+140158,11 Art,Subject grade 3,B
+140158,11 Biology,Subject grade,C+
+140158,11 Biology,Subject grade 2,B
+140158,11 Biology,Subject grade 3,B
+140158,11 English,Subject grade,A
+140158,11 English,Subject grade 2,NA
+140158,11 English,Subject grade 3,A
+140158,11 Geography,Subject grade,C+
+140158,11 Geography,Subject grade 2,C+
+140158,11 Geography,Subject grade 3,C
+140158,11 Legal Studies,Subject grade,A
+140158,11 Legal Studies,Subject grade 2,B
+140158,11 Legal Studies,Subject grade 3,A
+140158,11 Maths General,Subject grade,A
+140158,11 Maths General,Subject grade 2,C+
+140158,11 Maths General,Subject grade 3,A
+140159,11 Biology,Subject grade,C+
+140159,11 Biology,Subject grade 2,D
+140159,11 Biology,Subject grade 3,C+
+140159,11 English,Subject grade,B
+140159,11 English,Subject grade 2,NA
+140159,11 English,Subject grade 3,B
+140159,11 Hospitality,Subject grade,B
+140159,11 Hospitality,Subject grade 2,NA
+140159,11 Hospitality,Subject grade 3,B
+140159,11 Maths General,Subject grade,B
+140159,11 Maths General,Subject grade 2,B
+140159,11 Maths General,Subject grade 3,B
+140159,11 Metalwork,Subject grade,B
+140159,11 Metalwork,Subject grade 2,NA
+140159,11 Metalwork,Subject grade 3,B
+140159,11 Physical Education,Subject grade,B
+140159,11 Physical Education,Subject grade 2,D
+140159,11 Physical Education,Subject grade 3,B
+140160,11 English,Subject grade,B
+140160,11 English,Subject grade 2,NA
+140160,11 English,Subject grade 3,B
+140160,11 Legal Studies,Subject grade,C
+140160,11 Legal Studies,Subject grade 2,C-
+140160,11 Legal Studies,Subject grade 3,C
+140160,11 Maths General,Subject grade,B
+140160,11 Maths General,Subject grade 2,B
+140160,11 Maths General,Subject grade 3,B
+140160,11 Nutrition,Subject grade,A
+140160,11 Nutrition,Subject grade 2,NA
+140160,11 Nutrition,Subject grade 3,A
+140160,11 Physical Education,Subject grade,B
+140160,11 Physical Education,Subject grade 2,B
+140160,11 Physical Education,Subject grade 3,B
+140160,11 Sport & Recreation,Subject grade,B
+140160,11 Sport & Recreation,Subject grade 2,NA
+140160,11 Sport & Recreation,Subject grade 3,A
+140161,11 Biology,Subject grade,B
+140161,11 Biology,Subject grade 2,B
+140161,11 Biology,Subject grade 3,A
+140161,11 Chemistry,Subject grade,A
+140161,11 Chemistry,Subject grade 2,B
+140161,11 Chemistry,Subject grade 3,A
+140161,11 English,Subject grade,B
+140161,11 English,Subject grade 2,NA
+140161,11 English,Subject grade 3,A
+140161,11 Maths Studies 3,Subject grade,B
+140161,11 Maths Studies 3,Subject grade 2,A
+140161,11 Maths Studies 3,Subject grade 3,B
+140161,11 Maths Studies 4,Subject grade,B
+140161,11 Maths Studies 4,Subject grade 2,C+
+140161,11 Maths Studies 4,Subject grade 3,B
+140161,11 Nutrition,Subject grade,A
+140161,11 Nutrition,Subject grade 2,NA
+140161,11 Nutrition,Subject grade 3,A
+140162,11 Biology,Subject grade,B
+140162,11 Biology,Subject grade 2,B
+140162,11 Biology,Subject grade 3,B
+140162,11 Chemistry,Subject grade,C+
+140162,11 Chemistry,Subject grade 2,E
+140162,11 Chemistry,Subject grade 3,C+
+140162,11 Design,Subject grade,B
+140162,11 Design,Subject grade 2,NA
+140162,11 Design,Subject grade 3,B
+140162,11 English,Subject grade,A
+140162,11 English,Subject grade 2,NA
+140162,11 English,Subject grade 3,A
+140162,11 Maths General,Subject grade,B
+140162,11 Maths General,Subject grade 2,B
+140162,11 Maths General,Subject grade 3,B
+140162,11 Outdoor Const,Subject grade,A
+140162,11 Outdoor Const,Subject grade 2,NA
+140162,11 Outdoor Const,Subject grade 3,A
+140163,11 Biology,Subject grade,B
+140163,11 Biology,Subject grade 2,B
+140163,11 Biology,Subject grade 3,B
+140163,11 English Studies,Subject grade,B
+140163,11 English Studies,Subject grade 2,B
+140163,11 English Studies,Subject grade 3,B
+140163,11 History,Subject grade,A
+140163,11 History,Subject grade 2,A
+140163,11 History,Subject grade 3,A
+140163,11 Hospitality,Subject grade,A
+140163,11 Hospitality,Subject grade 2,NA
+140163,11 Hospitality,Subject grade 3,A
+140163,11 Legal Studies,Subject grade,B
+140163,11 Legal Studies,Subject grade 2,B
+140163,11 Legal Studies,Subject grade 3,A
+140163,11 Maths General,Subject grade,B
+140163,11 Maths General,Subject grade 2,B
+140163,11 Maths General,Subject grade 3,B
+140166,11 Biology,Subject grade,D
+140166,11 Biology,Subject grade 2,D
+140166,11 Biology,Subject grade 3,D
+140166,11 English,Subject grade,C
+140166,11 English,Subject grade 2,NA
+140166,11 English,Subject grade 3,C+
+140166,11 Hospitality,Subject grade,C+
+140166,11 Hospitality,Subject grade 2,NA
+140166,11 Hospitality,Subject grade 3,C+
+140166,11 Maths General,Subject grade,B
+140166,11 Maths General,Subject grade 2,C-
+140166,11 Maths General,Subject grade 3,B
+140166,11 Physical Education,Subject grade,C+
+140166,11 Physical Education,Subject grade 2,C-
+140166,11 Physical Education,Subject grade 3,C
+140166,11 Sport & Recreation,Subject grade,A
+140166,11 Sport & Recreation,Subject grade 2,NA
+140166,11 Sport & Recreation,Subject grade 3,A
+140167,11 Biology,Subject grade,C
+140167,11 Biology,Subject grade 2,D
+140167,11 Biology,Subject grade 3,C
+140167,11 English,Subject grade,C
+140167,11 English,Subject grade 2,NA
+140167,11 English,Subject grade 3,C
+140167,11 History,Subject grade,E
+140167,11 History,Subject grade 2,C
+140167,11 History,Subject grade 3,E
+140167,11 Maths General,Subject grade,C
+140167,11 Maths General,Subject grade 2,D
+140167,11 Maths General,Subject grade 3,C-
+140167,11 Physical Education,Subject grade,C
+140167,11 Physical Education,Subject grade 2,B
+140167,11 Physical Education,Subject grade 3,C
+140167,11 Woodwork,Subject grade,C
+140167,11 Woodwork,Subject grade 2,NA
+140167,11 Woodwork,Subject grade 3,C+
+140168,11 English,Subject grade,C-
+140168,11 English,Subject grade 2,NA
+140168,11 English,Subject grade 3,C-
+140168,11 Hospitality,Subject grade,D
+140168,11 Hospitality,Subject grade 2,NA
+140168,11 Hospitality,Subject grade 3,D
+140168,11 Maths General,Subject grade,D
+140168,11 Maths General,Subject grade 2,C
+140168,11 Maths General,Subject grade 3,D
+140168,11 Metalwork,Subject grade,B
+140168,11 Metalwork,Subject grade 2,NA
+140168,11 Metalwork,Subject grade 3,B
+140168,11 Physical Education,Subject grade,C
+140168,11 Physical Education,Subject grade 2,C
+140168,11 Physical Education,Subject grade 3,C
+140168,11 Sport & Recreation,Subject grade,C+
+140168,11 Sport & Recreation,Subject grade 2,NA
+140168,11 Sport & Recreation,Subject grade 3,C
+140169,11 Biology,Subject grade,C
+140169,11 Biology,Subject grade 2,D
+140169,11 Biology,Subject grade 3,C
+140169,11 English,Subject grade,B
+140169,11 English,Subject grade 2,NA
+140169,11 English,Subject grade 3,B
+140169,11 History,Subject grade,B
+140169,11 History,Subject grade 2,A
+140169,11 History,Subject grade 3,C+
+140169,11 Hospitality,Subject grade,C
+140169,11 Hospitality,Subject grade 2,NA
+140169,11 Hospitality,Subject grade 3,C
+140169,11 Legal Studies,Subject grade,C
+140169,11 Legal Studies,Subject grade 2,D
+140169,11 Legal Studies,Subject grade 3,C
+140169,11 Maths Essentials,Subject grade,C
+140169,11 Maths Essentials,Subject grade 2,C
+140169,11 Maths Essentials,Subject grade 3,C
+140170,11 Biology,Subject grade,B
+140170,11 Biology,Subject grade 2,B
+140170,11 Biology,Subject grade 3,B
+140170,11 Chemistry,Subject grade,A
+140170,11 Chemistry,Subject grade 2,B
+140170,11 Chemistry,Subject grade 3,A
+140170,11 English Studies,Subject grade,B
+140170,11 English Studies,Subject grade 2,B
+140170,11 English Studies,Subject grade 3,B
+140170,11 Maths Studies 3,Subject grade,A
+140170,11 Maths Studies 3,Subject grade 2,A
+140170,11 Maths Studies 3,Subject grade 3,A
+140170,11 Maths Studies 4,Subject grade,B
+140170,11 Maths Studies 4,Subject grade 2,C+
+140170,11 Maths Studies 4,Subject grade 3,A
+140170,11 Physics,Subject grade,A
+140170,11 Physics,Subject grade 2,C+
+140170,11 Physics,Subject grade 3,A
+140171,11 English Essentials,Subject grade,E
+140171,11 English Essentials,Subject grade 2,NA
+140171,11 English Essentials,Subject grade 3,D
+140171,11 Geography,Subject grade,E
+140171,11 Geography,Subject grade 2,UC
+140171,11 Geography,Subject grade 3,E
+140171,11 Maths Essentials,Subject grade,D
+140171,11 Maths Essentials,Subject grade 2,E
+140171,11 Maths Essentials,Subject grade 3,D
+140171,11 Outdoor Const,Subject grade,C-
+140171,11 Outdoor Const,Subject grade 2,NA
+140171,11 Outdoor Const,Subject grade 3,C-
+140171,11 Woodwork,Subject grade,C
+140171,11 Woodwork,Subject grade 2,NA
+140171,11 Woodwork,Subject grade 3,C
+140172,11 English,Subject grade,blank
+140172,11 English,Subject grade 2,NA
+140172,11 English,Subject grade 3,blank
+140172,11 Maths Essentials,Subject grade,E
+140172,11 Maths Essentials,Subject grade 2,E
+140172,11 Maths Essentials,Subject grade 3,E
+140172,11 Metalwork,Subject grade,E
+140172,11 Metalwork,Subject grade 2,NA
+140172,11 Metalwork,Subject grade 3,D
+140172,11 Music B,Subject grade,NA
+140172,11 Music B,Subject grade 2,NA
+140172,11 Music B,Subject grade 3,E
+140173,11 Biology,Subject grade,B
+140173,11 Biology,Subject grade 2,B
+140173,11 Biology,Subject grade 3,B
+140173,11 Chemistry,Subject grade,A
+140173,11 Chemistry,Subject grade 2,A
+140173,11 Chemistry,Subject grade 3,A
+140173,11 English Studies,Subject grade,B
+140173,11 English Studies,Subject grade 2,B
+140173,11 English Studies,Subject grade 3,B
+140173,11 Maths Studies 3,Subject grade,B
+140173,11 Maths Studies 3,Subject grade 2,A
+140173,11 Maths Studies 3,Subject grade 3,A
+140173,11 Maths Studies 4,Subject grade,A
+140173,11 Maths Studies 4,Subject grade 2,A
+140173,11 Maths Studies 4,Subject grade 3,A
+140173,11 Physics,Subject grade,A
+140173,11 Physics,Subject grade 2,A
+140173,11 Physics,Subject grade 3,A
+140175,11 English Essentials,Subject grade,C+
+140175,11 English Essentials,Subject grade 2,NA
+140175,11 English Essentials,Subject grade 3,C+
+140175,11 Hospitality,Subject grade,C+
+140175,11 Hospitality,Subject grade 2,NA
+140175,11 Hospitality,Subject grade 3,C+
+140175,11 Maths General,Subject grade,C-
+140175,11 Maths General,Subject grade 2,B
+140175,11 Maths General,Subject grade 3,C
+140175,11 Scientific St B,Subject grade,C+
+140175,11 Scientific St B,Subject grade 2,NA
+140175,11 Scientific St B,Subject grade 3,C
+140175,11 Woodwork,Subject grade,C
+140175,11 Woodwork,Subject grade 2,NA
+140175,11 Woodwork,Subject grade 3,C+
+140179,11 Biology,Subject grade,C
+140179,11 Biology,Subject grade 2,E
+140179,11 Biology,Subject grade 3,C
+140179,11 ESL,Subject grade,A
+140179,11 ESL,Subject grade 2,A
+140179,11 ESL,Subject grade 3,B
+140179,11 Geography,Subject grade,D
+140179,11 Geography,Subject grade 2,D
+140179,11 Geography,Subject grade 3,D
+140179,11 Maths General,Subject grade,C
+140179,11 Maths General,Subject grade 2,C
+140179,11 Maths General,Subject grade 3,C
+140179,11 Nutrition,Subject grade,C
+140179,11 Nutrition,Subject grade 2,NA
+140179,11 Nutrition,Subject grade 3,C+
+140179,11 Physical Education,Subject grade,B
+140179,11 Physical Education,Subject grade 2,B
+140179,11 Physical Education,Subject grade 3,B
+140187,11 Digital Photography,Subject grade,D
+140187,11 Digital Photography,Subject grade 2,NA
+140187,11 Digital Photography,Subject grade 3,D
+140187,11 Energy Tech,Subject grade,E
+140187,11 Energy Tech,Subject grade 2,NA
+140187,11 Energy Tech,Subject grade 3,E
+140187,11 English Essentials,Subject grade,B
+140187,11 English Essentials,Subject grade 2,NA
+140187,11 English Essentials,Subject grade 3,C+
+140187,11 Maths Essentials,Subject grade,C-
+140187,11 Maths Essentials,Subject grade 2,C
+140187,11 Maths Essentials,Subject grade 3,C-
+140187,11 Sport & Recreation,Subject grade,C
+140187,11 Sport & Recreation,Subject grade 2,NA
+140187,11 Sport & Recreation,Subject grade 3,C+
+140187,11 Woodwork,Subject grade,B
+140187,11 Woodwork,Subject grade 2,NA
+140187,11 Woodwork,Subject grade 3,B
+140209,11 English,Subject grade,B
+140209,11 English,Subject grade 2,NA
+140209,11 English,Subject grade 3,B
+140209,11 Hospitality,Subject grade,C+
+140209,11 Hospitality,Subject grade 2,NA
+140209,11 Hospitality,Subject grade 3,C
+140209,11 Maths General,Subject grade,C-
+140209,11 Maths General,Subject grade 2,D
+140209,11 Maths General,Subject grade 3,C-
+140209,11 Nutrition,Subject grade,C+
+140209,11 Nutrition,Subject grade 2,NA
+140209,11 Nutrition,Subject grade 3,C+
+140222,11 Art,Subject grade,E
+140222,11 Art,Subject grade 2,NA
+140222,11 Art,Subject grade 3,E
+140222,11 Hospitality,Subject grade,E
+140222,11 Hospitality,Subject grade 2,NA
+140222,11 Hospitality,Subject grade 3,E
+140222,11 Maths Essentials,Subject grade,C-
+140222,11 Maths Essentials,Subject grade 2,E
+140222,11 Maths Essentials,Subject grade 3,C-
+140222,11 Scientific St B,Subject grade,E
+140222,11 Scientific St B,Subject grade 2,NA
+140222,11 Scientific St B,Subject grade 3,D
+140252,11 Energy Tech,Subject grade,D
+140252,11 Energy Tech,Subject grade 2,NA
+140252,11 Energy Tech,Subject grade 3,D
+140252,11 English Essentials,Subject grade,C
+140252,11 English Essentials,Subject grade 2,NA
+140252,11 English Essentials,Subject grade 3,C+
+140252,11 Hospitality,Subject grade,D
+140252,11 Hospitality,Subject grade 2,NA
+140252,11 Hospitality,Subject grade 3,D
+140252,11 Maths Essentials,Subject grade,C-
+140252,11 Maths Essentials,Subject grade 2,C-
+140252,11 Maths Essentials,Subject grade 3,C-
+140252,11 Sport & Recreation,Subject grade,D
+140252,11 Sport & Recreation,Subject grade 2,NA
+140252,11 Sport & Recreation,Subject grade 3,C
+140252,11 Woodwork,Subject grade,C
+140252,11 Woodwork,Subject grade 2,NA
+140252,11 Woodwork,Subject grade 3,B
+150256,11 Biology,Subject grade,B
+150256,11 Biology,Subject grade 2,C
+150256,11 Biology,Subject grade 3,B
+150256,11 English,Subject grade,C
+150256,11 English,Subject grade 2,NA
+150256,11 English,Subject grade 3,C+
+150256,11 Legal Studies,Subject grade,B
+150256,11 Legal Studies,Subject grade 2,C+
+150256,11 Legal Studies,Subject grade 3,B
+150256,11 Maths General,Subject grade,B
+150256,11 Maths General,Subject grade 2,A
+150256,11 Maths General,Subject grade 3,B
+150256,11 Physical Education,Subject grade,B
+150256,11 Physical Education,Subject grade 2,A
+150256,11 Physical Education,Subject grade 3,B
+150256,11 Research Practices,Subject grade,C+
+150256,11 Research Practices,Subject grade 2,NA
+150256,11 Research Practices,Subject grade 3,C+
+150270,11 Biology,Subject grade,B
+150270,11 Biology,Subject grade 2,B
+150270,11 Biology,Subject grade 3,B
+150270,11 Chemistry,Subject grade,C-
+150270,11 Chemistry,Subject grade 2,E
+150270,11 Chemistry,Subject grade 3,C-
+150270,11 English Studies,Subject grade,B
+150270,11 English Studies,Subject grade 2,B
+150270,11 English Studies,Subject grade 3,B
+150270,11 History,Subject grade,B
+150270,11 History,Subject grade 2,C+
+150270,11 History,Subject grade 3,B
+150270,11 Legal Studies,Subject grade,C
+150270,11 Legal Studies,Subject grade 2,D
+150270,11 Legal Studies,Subject grade 3,B
+150270,11 Maths General,Subject grade,B
+150270,11 Maths General,Subject grade 2,B
+150270,11 Maths General,Subject grade 3,B
+150298,11 Energy Tech,Subject grade,C+
+150298,11 Energy Tech,Subject grade 2,NA
+150298,11 Energy Tech,Subject grade 3,C+
+150298,11 English Essentials,Subject grade,C+
+150298,11 English Essentials,Subject grade 2,NA
+150298,11 English Essentials,Subject grade 3,C+
+150298,11 Hospitality,Subject grade,C-
+150298,11 Hospitality,Subject grade 2,NA
+150298,11 Hospitality,Subject grade 3,C-
+150298,11 Sport & Recreation,Subject grade,C
+150298,11 Sport & Recreation,Subject grade 2,NA
+150298,11 Sport & Recreation,Subject grade 3,C-
+150322,11 Biology,Subject grade,A
+150322,11 Biology,Subject grade 2,A
+150322,11 Biology,Subject grade 3,B
+150322,11 Chemistry,Subject grade,A
+150322,11 Chemistry,Subject grade 2,A
+150322,11 Chemistry,Subject grade 3,A
+150322,11 English,Subject grade,A
+150322,11 English,Subject grade 2,NA
+150322,11 English,Subject grade 3,A
+150322,11 Maths Studies 3,Subject grade,A
+150322,11 Maths Studies 3,Subject grade 2,A
+150322,11 Maths Studies 3,Subject grade 3,A
+150322,11 Maths Studies 4,Subject grade,A
+150322,11 Maths Studies 4,Subject grade 2,A
+150322,11 Maths Studies 4,Subject grade 3,A
+150322,11 Physics,Subject grade,A
+150322,11 Physics,Subject grade 2,A
+150322,11 Physics,Subject grade 3,A
+150324,11 Biology,Subject grade,B
+150324,11 Biology,Subject grade 2,C+
+150324,11 Biology,Subject grade 3,B
+150324,11 Digital Photography,Subject grade,B
+150324,11 Digital Photography,Subject grade 2,NA
+150324,11 Digital Photography,Subject grade 3,A
+150324,11 English Studies,Subject grade,B
+150324,11 English Studies,Subject grade 2,B
+150324,11 English Studies,Subject grade 3,B
+150324,11 Maths General,Subject grade,B
+150324,11 Maths General,Subject grade 2,B
+150324,11 Maths General,Subject grade 3,B
+150324,11 Woodwork,Subject grade,A
+150324,11 Woodwork,Subject grade 2,NA
+150324,11 Woodwork,Subject grade 3,A
+160088,11 English,Subject grade,B
+160088,11 English,Subject grade 2,NA
+160088,11 English,Subject grade 3,B
+160088,11 Info Pro & Pub,Subject grade,D
+160088,11 Info Pro & Pub,Subject grade 2,NA
+160088,11 Info Pro & Pub,Subject grade 3,C
+160088,11 Legal Studies,Subject grade,C
+160088,11 Legal Studies,Subject grade 2,C
+160088,11 Legal Studies,Subject grade 3,C
+160088,11 Maths General,Subject grade,B
+160088,11 Maths General,Subject grade 2,B
+160088,11 Maths General,Subject grade 3,B
+160088,11 Outdoor Const,Subject grade,A
+160088,11 Outdoor Const,Subject grade 2,NA
+160088,11 Outdoor Const,Subject grade 3,A
+160088,11 Sport & Recreation,Subject grade,B
+160088,11 Sport & Recreation,Subject grade 2,NA
+160088,11 Sport & Recreation,Subject grade 3,B
+160245,11 English,Subject grade,B
+160245,11 English,Subject grade 2,NA
+160245,11 English,Subject grade 3,B
+160245,11 History,Subject grade,C
+160245,11 History,Subject grade 2,C+
+160245,11 History,Subject grade 3,C
+160245,11 Hospitality,Subject grade,B
+160245,11 Hospitality,Subject grade 2,NA
+160245,11 Hospitality,Subject grade 3,A
+160245,11 Legal Studies,Subject grade,E
+160245,11 Legal Studies,Subject grade 2,D
+160245,11 Legal Studies,Subject grade 3,D
+160245,11 Maths General,Subject grade,blank
+160245,11 Maths General,Subject grade 2,blank
+160245,11 Maths General,Subject grade 3,blank
+160245,11 Outdoor Const,Subject grade,A
+160245,11 Outdoor Const,Subject grade 2,NA
+160245,11 Outdoor Const,Subject grade 3,A
+170353,11 ESL,Subject grade,C+
+170353,11 ESL,Subject grade 2,A
+170353,11 ESL,Subject grade 3,C
+170353,11 Maths General,Subject grade,D
+170353,11 Maths General,Subject grade 2,C
+170353,11 Maths General,Subject grade 3,D
+170353,11 Metalwork,Subject grade,B
+170353,11 Metalwork,Subject grade 2,NA
+170353,11 Metalwork,Subject grade 3,B
+170353,11 Physical Education,Subject grade,C
+170353,11 Physical Education,Subject grade 2,C
+170353,11 Physical Education,Subject grade 3,C
+170353,11 Research Practices,Subject grade,C-
+170353,11 Research Practices,Subject grade 2,NA
+170353,11 Research Practices,Subject grade 3,C-
+170353,11 Woodwork,Subject grade,B
+170353,11 Woodwork,Subject grade 2,NA
+170353,11 Woodwork,Subject grade 3,B
+170359,11 Chemistry,Subject grade,A
+170359,11 Chemistry,Subject grade 2,A
+170359,11 Chemistry,Subject grade 3,A
+170359,11 English Studies,Subject grade,A
+170359,11 English Studies,Subject grade 2,A
+170359,11 English Studies,Subject grade 3,A
+170359,11 Maths Studies 3,Subject grade,A
+170359,11 Maths Studies 3,Subject grade 2,A
+170359,11 Maths Studies 3,Subject grade 3,A
+170359,11 Maths Studies 4,Subject grade,A
+170359,11 Maths Studies 4,Subject grade 2,A
+170359,11 Maths Studies 4,Subject grade 3,A
+170359,11 Physics,Subject grade,A
+170359,11 Physics,Subject grade 2,B
+170359,11 Physics,Subject grade 3,A
+170395,10 PLP,Subject grade,C-
+170395,10 PLP,Subject grade 2,NA
+170395,10 PLP,Subject grade 3,C-
+170395,11 Biology,Subject grade,B
+170395,11 Biology,Subject grade 2,A
+170395,11 Biology,Subject grade 3,B
+170395,11 English,Subject grade,B
+170395,11 English,Subject grade 2,NA
+170395,11 English,Subject grade 3,B
+170395,11 Maths General,Subject grade,C
+170395,11 Maths General,Subject grade 2,A
+170395,11 Maths General,Subject grade 3,B
+170395,11 Nutrition,Subject grade,C
+170395,11 Nutrition,Subject grade 2,NA
+170395,11 Nutrition,Subject grade 3,C
+170395,11 Physical Education,Subject grade,A
+170395,11 Physical Education,Subject grade 2,A
+170395,11 Physical Education,Subject grade 3,A
+170395,11 Scientific St B,Subject grade,C+
+170395,11 Scientific St B,Subject grade 2,NA
+170395,11 Scientific St B,Subject grade 3,C
