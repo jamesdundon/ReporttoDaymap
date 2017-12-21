@@ -1,2 +1,2 @@
 # SPR Report Data to Daymap
-Scripts to reorganise reporting data to a Daymap friendly format.
+Juypter Notebooks to reorganise SPR reporting data to a Daymap friendly format.
