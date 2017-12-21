@@ -1,0 +1,631 @@
+Class Code,Subject Name
+10ATA12,10 Art A
+10ATA13,10 Art A
+10ATB1,10 Art B
+10DEA11,10 Design A
+10DEA13,10 Design
+10DEB1,10 Design
+10DP11,10 Digital Photo
+10DP12,10 Digital Photo
+10EG1,10 Eng Studies
+10EG2,10 Eng Studies
+10EG3,10 Eng Studies
+10EG4,10 Eng Communications
+10EG5,10 Eng Communications
+10EG6,10 Eng Communications
+10EG7,10 Eng Literacy
+10ESL,10 ESL
+10HEA11,10 Health
+10HEA12,10 Health
+10HEA13,10 Health
+10HEA14,10 Health
+10HEA21,10 Health
+10HEA22,10 Health
+10HEA23,10 Health
+10HEAA1,10 Health
+10HEAA11,10 Health
+10HEAA12,10 Health
+10HEAA13,10 Health
+10HEAA15,10 Health
+10HEAA16,10 Health
+10HEAA2,10 Health
+10HEAA3,10 Health
+10HEAA4,10 Health
+10HEAA5,10 Health
+10HEC1,10 Child Studies
+10HEC11,10 Child Studies
+10HEC2,10 Child Studies
+10HEF11,10 Chef's Applications
+10HEF12,10 Chef's Applications
+10HEF13,10 Chef's Applications
+10HEF4,10 Chef's Applications
+10HGA1,10 Home Group
+10HGA6,10 Home Group
+10HGCQ,10 Home Group
+10HGH1,10 Home Group
+10HGH2,10 Home Group
+10HGL1,10 Home Group
+10HGT8,10 Home Group
+10HGW1,10 Home Group
+10ITA11,10 Info Tech
+10ITB21,10 Info Tech
+10JPA12,10 Japanese
+10JPB1,10 Japanese
+10MA8,10 Maths
+10MAA1,10 Maths Advanced
+10MAA2,10 Maths Advanced
+10MAE1,10 Maths Essentials
+10MAE2,10 Maths Essentials
+10MAE3,10 Maths Studies
+10MAE4,10 Maths Studies
+10MAG1,10 Maths General
+10MAG2,10 Maths General
+10MAG3,10 Maths General
+10MUA11,10 Music
+10MUA12,10 Music
+10MUB1,10 Music
+10MW11,10 Metalwork
+10MW12,10 Metalwork
+10MW2,10 Metalwork
+10PEA11,10 Physical Education
+10PEA12,10 Physical Education
+10PEA13,10 Physical Education
+10PEB21,10 Physical Education
+10PEB22,10 Physical Education
+10PEB24,10 Physical Education
+10PEG1,10 PE for Girls
+10PEG11,10 PE for Girls
+10PLP11,10 Personal Learning Plan
+10PLP12,10 Personal Learning Plan
+10PLP13,10 Personal Learning Plan
+10PLP21,10 Personal Learning Plan
+10PLP22,10 Personal Learning Plan
+10PLP23,10 Personal Learning Plan
+10PLP24,10 Personal Learning Plan
+10PLP25,10 Personal Learning Plan
+10SCAA1,10 Science Advanced
+10SCAA2,10 Science Advanced
+10SCAS1,10 Science Standard
+10SCAS2,10 Science Standard
+10SCBA1,10 Science Advanced
+10SCBA2,10 Science Advanced
+10SCBS1,10 Science Standard
+10SCBS2,10 Science Standard
+10SE1,10 Sport Education
+10SE11,10 Sport Education
+10SEB11,10 Sport Ed B/Ball
+10SVA1,10 Humanities
+10SVA2,10 Humanities
+10SVA3,10 Humanities
+10SVA4,10 Humanities
+10SVB1,10 Humanities
+10SVB2,10 Humanities
+10SVB3,10 Humanities
+10SVB4,10 Humanities
+10TFA11,10 Fashion & Design
+10TGA11,10 Tech Graphics/CAD
+10VETA1,10 VET A
+10VETA2,10 VET A
+10VETB1,10 VET B
+10VETB2,10 VET B
+10VETB3,10 VET B
+10WW11,10 Woodwork
+10WW12,10 Woodwork
+10WW13,10 Woodwork
+10WW4,10 Woodwork
+10ZZA1,Support
+10ZZA2,Support
+10ZZA4,Support
+10ZZB1,Support
+10ZZB2,Support
+10ZZB3,Support
+10ZZZA1,Study
+10ZZZA11,Study
+10ZZZA12,Study
+10ZZZA13,Study
+10ZZZA2,Study
+10ZZZB1,Study
+10ZZZB2,Study
+10ZZZB3,Study
+11 CT,11 Class Teacher
+11 CTA1,11 Class Teacher
+11AHA1,11 History
+11AHA2,11 History
+11ATA1,11 Art
+11ATA2,11 Art
+11ATB2,11 Art
+11BLA1,11 Biology A
+11BLA2,11 Biology A
+11BLA3,11 Biology A
+11BLB1,11 Biology
+11BLB2,11 Biology
+11BLB3,11 Biology
+11CHA1,11 Chemistry A
+11CHA2,11 Chemistry A
+11CHA3,11 Chemistry
+11CHB1,11 Chemistry
+11CHB2,11 Chemistry
+11CSA1,11 Community St A
+11CSA2,11 Community St A
+11CSB,11 Community St B
+11CT15,11 Class Teacher
+11CT16,11 Class Teacher
+11CT17,11 Class Teacher
+11CT18,11 Class Teacher
+11CT19,11 Class Teacher
+11CT20,11 Class Teacher
+11CT21,11 Class Teacher
+11CTB2,11 Class Teacher B
+11DPA,11 Digital Photography
+11DPA1,11 Digital Photography
+11DPA2,11 Digital Photography
+11DRA1,11 Drawing
+11DRA2,11 Drawing
+11DSA2,11 Design
+11DSB,11 Design
+11DSB1,11 Design
+11ECA1,11 English
+11ECA2,11 English
+11ECA3,11 English
+11ECA4,11 English
+11ECA5,11 English
+11ECB1,11 English
+11ECB2,11 English
+11ECB3,11 English
+11ECB4,11 English
+11EPA1,11 English Essentials
+11EPB,11 English Essentials
+11EPB1,11 English Essentials
+11ESA1,11 English St. A
+11ESA2,11 English St. A
+11ESA3,11 English Studies
+11ESB1,11 English Studies
+11ESB2,11 English Studies
+11ESLA1,11 EAL
+11ESLB,11 EAL
+11ESLB1,11 ESL
+11ET1,11 Energy Tech
+11ETT2,11 Energy Tech
+11GGA,11 Geography
+11GGB,11 Geography
+11GGB1,11 Geography
+11GMA,11 German
+11GMA1,11 German
+11GMB,11 German
+11HG15,11 Home Group
+11HG16,11 Home Group
+11HG17,11 Home Group
+11HG18,11 Home Group
+11HG19,11 Home Group
+11HG20,11 Home Group
+11HG21,11 Home Group
+11HGFL0,HG FLO
+11HSA1,11 Hospitality A
+11HSA2,11 Hospitality A
+11HSA3,11 Hospitality A
+11HSB1,11 Hospitality
+11HSB2,11 Hospitality
+11HSB3,11 Hospitality
+11IPA,11 Info Pro & Pub
+11IPA2,11 Info Pro & Pub
+11IPB1,11 Info Pro & Pub
+11IPB2,11 Info Pro & Pub
+11ISA1,11 Scientific St A
+11ISB,11 Scientific St B
+11ISB1,11 Scientific St B
+11ITA,11 Info Tech
+11ITA1,11 Info Tech
+11ITB,11 Info Tech
+11JPA2,11 Japanese
+11JPB,11 Japanese B
+11LGA1,11 Legal Studies A
+11LGA2,11 Legal Studies A
+11LGA3,11 Legal Studies
+11LGB1,11 Legal Studies
+11LGB2,11 Legal Studies
+11MAA1,11 Maths General A
+11MAA2,11 Maths General A
+11MAA3,11 Maths General A
+11MAA4,11 Maths General A
+11MAB1,11 Maths General
+11MAB2,11 Maths General
+11MAB3,11 Maths General
+11MAB4,11 Maths General
+11MGA1,11 Maths Essentials
+11MGA2,11 Maths Essentials
+11MGB1,11 Maths Essentials
+11MGB3,11 Maths Essentials
+11MHA1,11 History
+11MHA2,11 History
+11MHB1,11 History
+11MS1,11 Maths Studies 1
+11MS11,11 Maths Studies 1
+11MS12,11 Maths Studies 1
+11MS21,11 Maths Studies 3
+11MS22,11 Maths Studies 3
+11MS31,11 Maths Studies 3
+11MS32,11 Maths Studies 3
+11MS33,11 Maths Studies 3
+11MS41,11 Maths Studies 4
+11MS42,11 Maths Studies 4
+11MUA1,11 Music A
+11MUB,11 Music B
+11MUB1,11 Music B
+11MWA,11 Metalwork
+11MWA2,11 Metalwork
+11MWA3,11 Metalwork
+11NLA,11 Nutrition
+11NLA1,11 Nutrition
+11NLA2,11 Nutrition
+11OCA,11 Outdoor Const
+11OCA1,11 Outdoor Const
+11OCA2,11 Outdoor Const
+11PCA,11 Physics
+11PCA1,11 Physics A
+11PCB,11 Physics
+11PCB1,11 Physics
+11PEA1,11 PE A
+11PEA2,11 PE A
+11PEA3,11 PE
+11PEB1,11 Physical Education
+11PEB2,11 Physical Education
+11PPA,Pedal Prix
+11RP1,11 Research Practices
+11RP3,11 Research Practices
+11SRA1,11 Sport & Recreation
+11SRA2,11 Sport & Recreation
+11SRB1,11 Sport & Recreation
+11SRB3,11 Sport & Recreation
+11TGA,11 Technical Graphics
+11TGA1,11 Technical Graphics
+11TSB,11 Technology
+11VETA1,11 VET
+11VETA2,11 VET
+11VETA3,11 VET
+11VETA4,11 VET
+11VETA5,11 VET
+11VETA6,11 VET
+11VETB1,11 VET B
+11VETB2,11 VET B
+11VETB3,11 VET B
+11VETB4,11 VET B
+11VETB5,11 VET B
+11VETB6,11 VET B
+11WWA1,11 Woodwork A
+11WWA2,11 Woodwork A
+11WWA3,11 Woodwork A
+11WWB1,11 Woodwork
+11WWB2,11 Woodwork
+11ZZA1,Support
+11ZZA2,Support
+11ZZA3,Support
+11ZZA4,Support
+11ZZA5,Support
+11ZZA6,Support
+11ZZB1,Support
+11ZZB2,Support
+11ZZB3,Support
+11ZZB4,Support
+11ZZB5,Support
+11ZZB6,Support
+11ZZZA1,Study Lesson
+11ZZZA2,Study Lesson
+11ZZZA3,Study Lesson
+11ZZZA4,Study Lesson
+11ZZZA5,Study Lesson
+11ZZZA6,Study Lesson
+11ZZZA7,Study Lesson
+11ZZZB1,Study
+11ZZZB2,Study
+11ZZZB3,Study
+11ZZZB4,Study
+11ZZZB5,Study
+11ZZZB6,Study
+12BLG1,12 Biology
+12BLG2,12 Biology
+12CHG1,12 Chemistry
+12CSG1,12 Child Studies
+12CSS2,12 Community Studies
+12CT1,12 Class Teacher
+12CT2,12 Class Teacher
+12CTF1,12 Class Teacher
+12CTF2,12 Class Teacher
+12CTF3,12 Class Teacher
+12CTF5,12 Class Teacher
+12CTF6,12 Class Teacher
+12CTF7,12 Class Teacher
+12CTF8,12 Class Teacher
+12DPR1,12 Design
+12DPR2,12 Design
+12ECG1,12 English
+12ECG2,12 English
+12ECG3,12 English
+12ECG4,12 English
+12EPW1,12 English Essentials
+12EPW2,12 English Essentials
+12ESG,12 English Studies
+12ESG2,12 English Studies
+12ESL1,12 English Second Language
+12FHG1,12 Food & Hosp
+12FHG2,12 Food & Hosp
+12GMG,12 German
+12GMG1,12 German
+12GSG1,12 Geography Studies
+12GSG2,12 Geography Studies
+12HGF1,12 Home Group
+12HGF2,12 Home Group
+12HGF3,12 Home Group
+12HGF5,12 Home Group
+12HGF6,12 Home Group
+12HGF7,12 Home Group
+12HGF8,12 Home Group
+12HGFLO,HG FLO
+12HGTT,12HGT
+12IPR1,12 Info Pro & Pub
+12IPR2,12 Info Pro & Pub
+12ITR,12 Information Technology
+12JPG,12 Japanese
+12JPG1,12 Japanese
+12LSG1,12 Legal Studies
+12MEM1,12 Maths Essentials
+12MGM1,12 Maths General
+12MGM2,12 Maths General
+12MHG1,12 Modern History
+12MHG2,12 Modern History
+12MHG4,12 Modern History
+12MHS1,12 Maths Methods
+12MHS2,12 Maths Methods
+12MSC1,12 Maths Specialist
+12MSC2,12 Maths Specialist
+12MUG1,12 Music
+12MUG2,12 Music
+12MWR1,12 Metalwork
+12MWR2,12 Metalwork
+12PCG2,12 Physics
+12PEG1,12 Physical Education
+12RPR1,12 Research Project
+12RPR2,12 Research Project
+12RPR3,12 Research Project
+12RPR4,12 Research Project
+12RPR5,12 Research Project
+12RPR6,12 Research Project
+12RPR7,12 Research Project
+12RPR8,12 Research Project
+12RPR9,12 Research Project
+12SCF1,12 Scientific Studies
+12SCF2,12 Scientific Studies
+12SRG,12 Sport & Recreation
+12SRG1,12 Sport & Recreation
+12SRG2,12 Sport & Recreation
+12Study,12Study
+12Study6,12Study
+12VAG1,12 Visual Art
+12VAG2,12 Visual Art
+12VETA1,VET
+12VETA2,VET
+12VETA3,12 VET A
+12VETA4,12 VET A
+12VETA5,12 VET A
+12VETA6,12 VET A
+12WPC1,12 Workplace Practices
+12WPC2,12 Workplace Practices
+12WPC3,12 Workplace Practices
+12WWR1,12 Woodwork
+12WWR2,12 Woodwork
+12WWR3,12 Woodwork
+12ZZA1,Support
+12ZZA2,Support
+12ZZA3,Support
+12ZZA4,Support
+12ZZA5,Support
+12ZZA6,Support
+12ZZB,Support
+12ZZZ1,Private Study
+12ZZZ2,Private Study
+12ZZZ3,Private Study
+12ZZZ4,Private Study
+12ZZZ5,Private Study
+12ZZZ6,Private Study
+12ZZZ7,Private Study
+7JP,Mod South Japanese
+8AT01,8 Art
+8AT02,8 Art
+8AT10,8 Art
+8AT11,8 Art
+8EG01,8 English
+8EG02,8 English
+8EG03,8 English
+8EG04,8 English
+8EG10,8 English
+8EG11,8 English
+8EG12,8 English
+8EG13,8 English
+8HEC04,8 Home Economics
+8HEC10,8 Home Economics
+8HG01,8 Home Group
+8HG02,8 Home Group
+8HG03,8 Home Group
+8HG04,8 Home Group
+8HG10,8 Home Group
+8HG11,8 Home Group
+8HG12,8 Home Group
+8HG13,8 Home Group
+8JP01,8 Japanese
+8JP02,8 Japanese
+8JP03,8 Japanese
+8JP04,8 Japanese
+8JP10,8 Japanese
+8JP11,8 Japanese
+8JP12,8 Japanese
+8JP13,8 Japanese
+8LLA1,8 Language & Literacy
+8LLA2,8 language & Literacy
+8MAA1,8 Maths Advanced
+8MAA2,8 Maths Advanced
+8MAA3,8 Maths General
+8MAA4,8 Maths Essentials
+8MAB1,8 Maths Advanced
+8MAB2,8 Maths Advanced
+8MAB3,8 Maths General
+8MAB4,8 Maths Essentials
+8MU03,8 Music
+8MU04,8 Music
+8MU12,8 Music
+8MU13,8 Music
+8PE01,8 Physical Education
+8PE02,8 Physical Education
+8PE12,8 Physical Education
+8PE13,8 Physical Education
+8SC01,8 Science
+8SC02,8 Science
+8SC03,8 Science
+8SC04,8 Science
+8SC10,8 Science
+8SC11,8 Science
+8SC12,8 Science
+8SC13,8 Science
+8SV01,8 Humanities
+8SV02,8 Humanities
+8SV03,8 Humanities
+8SV04,8 Humanities
+8SV10,8 Humanities
+8SV11,8 Humanities
+8SV12,8 Humanities
+8SV13,8 Humanities
+8TS03,8 Tech Studies
+8TS11,8 Tech Studies
+9ATA11,9 Art A
+9ATA12,9 Art A
+9ATA13,9 Art
+9ATA14,9 Art A
+9ATA15,9 Art A
+9ATA5,9 Art
+9ATB1,9 Art
+9ATB2,9 Art
+9ATB3,9 Art
+9ATB4,9 Art
+9ATB5,9 Art
+9CP11,9 Computing
+9CP2,9 Computing
+9EGA1,9 Eng Studies
+9EGA2,9 Eng Studies
+9EGA3,9 Eng Communications
+9EGA4,9 Eng Literacy
+9EGB1,9 Eng Studies
+9EGB2,9 Eng Studies
+9EGB3,9 Eng Communications
+9EGB4,9 Eng Literacy
+9ESL,9 ESL
+9GMA13,9 German A
+9GMA14,9 German A
+9GMB1,9 German
+9GMB2,9 German
+9HEC11,9 Chef's Basic
+9HEC12,9 Chef's Basic
+9HEC21,9 Chef's Basic
+9HEC22,9 Chef's Basic
+9HES1,9 Clothing Tech
+9HES11,9 Clothing Tech
+9HG05,9 Home Group
+9HG14,9 Home Group
+9HGA4,9 Home Group
+9HGA5,9 Home Group
+9HGT3,9 Home Group
+9HGT5,9 Home Group
+9HGT6,9 Home Group
+9HGT9,9 Home Group
+9JPA12,9 Japanese A
+9JPB1,9 Japanese
+9MAAA1,9 Maths General
+9MAAA2,9 Maths Advanced
+9MAAG,9 Maths Essentials
+9MAAS1,9 Maths General
+9MABA1,9 Maths Advanced
+9MABA2,9 Maths Advanced
+9MABG,9 Maths Essentials
+9MABS1,9 Maths General
+9MUA11,9 Music
+9MUA12,9 Music
+9MUB1,9 Music
+9MUB2,9 Music
+9PEB1,9 Physical Education
+9PEB2,9 Physical Education
+9PEB3,9 Physical Education
+9PEB4,9 Physical Education
+9PEF11,9 Fun & Fitness
+9PEF2,9 Fun & Fitness
+9PES11,9 Sports Specialist
+9PES12,9 Sports Specialist
+9PES21,9 Sports Specialist
+9PES22,9 Sports Specialist
+9SCA1,9 Science Advanced
+9SCA2,9 Science Advanced
+9SCA3,9 Science Standard
+9SCA4,9 Science Standard
+9SCB1,9 Science Advanced
+9SCB2,9 Science Advanced
+9SCB3,9 Science Standard
+9SCB4,9 Science Standard
+9SVA1,9 Humanities
+9SVA2,9 Humanities
+9SVA3,9 Humanities
+9SVA4,9 Humanities
+9SVB1,9 Humanities
+9SVB2,9 Humanities
+9SVB3,9 Humanities
+9SVB4,9 Humanities
+9TSB1,9 Technology
+9TSB2,9 Technology
+9TSB32,9 Technology
+9TSB4,9 Technology
+9TSB5,9 Technology
+9TSD12,9  Dig Photog
+9TSD21,9  Dig Photog
+9TSM12,9 Metal
+9TSM21,9 Metal
+9TSW11,9 Wood
+9TSW12,9 Wood
+9TSW21,9 Wood
+9TSW22,9 Wood
+9ZZA1,Support
+9ZZA12,Support
+9ZZA2,Support
+9ZZA3,Support
+9ZZA4,Support
+9ZZA5,Support
+9ZZA6,Support
+9ZZA7,Support
+9ZZB21,9 Support B
+9ZZB22,9 Support B
+BMR0,BMR
+BMR1,BMR
+BMR2,BMR
+BMR3,BMR
+BMR4,BMR
+BMR5,BMR
+BMR6,BMR
+BMR7,BMR
+BMR8,BMR
+EXEC,EXEC MEETING
+FLO,FLO
+ITAD1,IT Admin meeting
+ITAD2,IT Admin meeting
+ITAD3,IT Admin meeting
+LIBRARY,LIBRARY
+LIBRARY1,LIBRARY
+LIBRARY2,LIBRARY
+LIBRARY3,LIBRARY
+LIBRARY4,LIBRARY
+LIBRARY5,LIBRARY
+LIBRARY6,LIBRARY
+LIBRARY7,LIBRARY
+PAC,PAC
+RC1,Resource Centre
+RC2,Resource Centre
+RC3,Resource Centre
+RC4,Resource Centre
+RC5,Resource Centre
+RC6,Resource Centre
+RC7,Resource Centre
+VOCAL,VOCAL
+,
